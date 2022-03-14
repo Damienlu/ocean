@@ -1,0 +1,384 @@
+{
+  "menuTitlesAll": [
+    "前導影音",
+    "最新消息",
+    "計畫背景",
+    "夥伴還海日記",
+    "還海夥伴",
+    "認購專區",
+    "專題報導"
+  ],
+  "menuTitlesEngAll": [
+    "INTRODUCTION",
+    "NEWS",
+    "BACKGROUND",
+    "EVENTS",
+    "PARTNERS",
+    "SUPPORT",
+    "ARTICLES"
+  ],
+  "menuTitles": ["前導影音", "最新消息", "計畫背景", "還海夥伴", "認購專區", "專題報導"],
+  "menuTitlesEng": ["INTRODUCTION", "NEWS", "BACKGROUND", "PARTNERS", "SUPPORT", "ARTICLES"],
+  "counts": {
+    "company": 10,
+    "cleanBeach": 1,
+    "kg": 905,
+    "bottles": 20,
+    "percent": 0
+  },
+  "topicsData": [
+    {
+      "name": "企業活動實錄",
+      "topics": [
+        {
+          "image": "https://doqvf81n9htmm.cloudfront.net/data/sherrychuang_133/Seaturtle/seaturtle1140x855.jpg",
+          "link": "https://www.businesstoday.com.tw/article/category/183008/post/202006120020/%E3%80%8C%E6%95%A3%E6%88%B6%E6%9C%83%E7%8A%AF%E7%9A%84%E9%8C%AF%EF%BC%8C%E6%88%91%E5%85%A8%E7%8A%AF%E4%BA%86%E2%80%A6%E3%80%8D%E6%9B%BE%E6%85%98%E8%B3%A0%E4%BA%94%E7%99%BE%E8%90%AC%E7%9A%84%E7%BE%8E%E5%A5%B3%E8%B2%A1%E7%B6%93%E4%B8%BB%E6%92%AD%E7%8E%8B%E5%BF%97%E9%83%81%E3%80%80%E5%A6%82%E4%BD%95%E9%9D%A0%E6%88%BF%E5%AD%90%E8%B7%9F%E5%9F%BA%E9%87%91%E7%B4%AF%E7%A9%8D%E5%8D%83%E8%90%AC%E8%BA%AB%E5%83%B9?",
+          "title": "News曾慘賠500萬　財經主播王志郁靠房子跟基金　累積千萬身價",
+          "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+          ]
+        },
+        {
+          "image": "https://doqvf81n9htmm.cloudfront.net/data/christina_155/1140x855.jpg",
+          "link": "https://www.businesstoday.com.tw/article/category/183012/post/202102230037/%E4%B8%80%E5%B9%B4%E5%AD%98%E5%88%B0%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%E3%80%81%E5%9D%90%E6%93%812%E7%AD%86%E6%88%BF%E7%94%A2%E3%80%8026%E6%AD%B2%E5%B0%8F%E8%B3%87%E5%A5%B3%E6%9B%9D%E5%85%89%E5%BF%83%E6%B3%95%EF%BC%9A%E3%80%8C%E8%AE%93%E8%87%AA%E5%B7%B1%E9%9A%A8%E6%99%82%E4%BF%9D%E6%8C%81%E6%9C%80%E6%96%B0%E7%8B%80%E6%85%8B%E3%80%8D",
+          "title": "一年存一桶金、擁2房產　26歲小資女：「保持最新狀態」",
+          "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+          ]
+        },
+        {
+          "image": "https://doqvf81n9htmm.cloudfront.net/data/sherrychuang_133/Seaturtle/seaturtle1140x855.jpg",
+          "link": "https://www.businesstoday.com.tw/article/category/80407/post/202102260025/%E6%8A%95%E8%B3%87%E7%B6%93%E9%A9%9716%E5%B9%B4%E3%80%81%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E3%80%80%E5%82%B5%E5%88%B8%E9%81%94%E4%BA%BAMiss%20Q%EF%BC%9A%E3%80%8C%E8%B2%A1%E5%8B%99%E7%8D%A8%E7%AB%8B%E8%AE%93%E5%A5%B3%E6%80%A7%E6%9B%B4%E6%9C%89%E8%87%AA%E4%BF%A1%E3%80%81%E5%AE%89%E5%85%A8%E6%84%9F%E3%80%8D",
+          "title": "被動收入超過百萬　Miss Q：「財務獨立讓女性更自信」",
+          "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+          ]
+        },
+        {
+          "image": "https://doqvf81n9htmm.cloudfront.net/data/TommyHuang_147/all/LIU_1385a.jpg",
+          "link": "https://www.businesstoday.com.tw/article/category/183012/post/202102230037/%E4%B8%80%E5%B9%B4%E5%AD%98%E5%88%B0%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%E3%80%81%E5%9D%90%E6%93%812%E7%AD%86%E6%88%BF%E7%94%A2%E3%80%8026%E6%AD%B2%E5%B0%8F%E8%B3%87%E5%A5%B3%E6%9B%9D%E5%85%89%E5%BF%83%E6%B3%95%EF%BC%9A%E3%80%8C%E8%AE%93%E8%87%AA%E5%B7%B1%E9%9A%A8%E6%99%82%E4%BF%9D%E6%8C%81%E6%9C%80%E6%96%B0%E7%8B%80%E6%85%8B%E3%80%8D",
+          "title": "一年存一桶金、擁2房產　26歲小資女：「保持最新狀態」",
+          "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+          ]
+        },
+        {
+          "image": "https://doqvf81n9htmm.cloudfront.net/data/sherrychuang_133/Seaturtle/seaturtle1140x855.jpg",
+          "link": "https://www.businesstoday.com.tw/article/category/80407/post/202102260025/%E6%8A%95%E8%B3%87%E7%B6%93%E9%A9%9716%E5%B9%B4%E3%80%81%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E3%80%80%E5%82%B5%E5%88%B8%E9%81%94%E4%BA%BAMiss%20Q%EF%BC%9A%E3%80%8C%E8%B2%A1%E5%8B%99%E7%8D%A8%E7%AB%8B%E8%AE%93%E5%A5%B3%E6%80%A7%E6%9B%B4%E6%9C%89%E8%87%AA%E4%BF%A1%E3%80%81%E5%AE%89%E5%85%A8%E6%84%9F%E3%80%8D",
+          "title": "被動收入超過百萬　Miss Q：「財務獨立讓女性更自信」",
+          "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+          ]
+        }
+      ]
+    }
+  ],
+  "videosData":[
+    { 
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/christina_155/1140x855.jpg",
+      "videoID": "NSe5Q68V3KA",
+      "link": "https://www.businesstoday.com.tw/article/category/183008/post/202006120020/%E3%80%8C%E6%95%A3%E6%88%B6%E6%9C%83%E7%8A%AF%E7%9A%84%E9%8C%AF%EF%BC%8C%E6%88%91%E5%85%A8%E7%8A%AF%E4%BA%86%E2%80%A6%E3%80%8D%E6%9B%BE%E6%85%98%E8%B3%A0%E4%BA%94%E7%99%BE%E8%90%AC%E7%9A%84%E7%BE%8E%E5%A5%B3%E8%B2%A1%E7%B6%93%E4%B8%BB%E6%92%AD%E7%8E%8B%E5%BF%97%E9%83%81%E3%80%80%E5%A6%82%E4%BD%95%E9%9D%A0%E6%88%BF%E5%AD%90%E8%B7%9F%E5%9F%BA%E9%87%91%E7%B4%AF%E7%A9%8D%E5%8D%83%E8%90%AC%E8%BA%AB%E5%83%B9?",
+      "title": "News曾慘賠500萬　財經主播王志郁靠房子跟基金　累積千萬身價",
+      "contents": [
+            "我們將在三年1095天持續號召企業、NGO至全台各海岸進行淨灘，利用所收集海廢打造它們第二人生-新國民拖鞋並開放認購，",
+            "再將認購金額幾% 捐助NGO組織並持續投入還海行動中，鞋並開放認購還海一片湛藍，還海一片湛藍組織"
+      ] 
+    }
+  ],
+  "articles": {
+    "news": [
+      {
+        "ismedia": "0",
+        "title": "誰謀殺了我們的海？ 直擊怵目驚心的海廢真相",
+        "contents": "台灣海底的垃圾密度是全球平均的1.45倍！你以為的海廢，其實只有20%是海漂垃圾，80%則是來自我們陸地上...",
+        "link": "https://www.facebook.com/ProjectBlue1095/posts/114307114104551",
+        "image": "https://esg.businesstoday.com.tw/topic/projectblue1095/images/20210421_oceantrash.jpg"
+      },
+      {
+        "ismedia": "0",
+        "title": "台灣年用150億個塑膠袋！為什麼我們該「減塑」？",
+        "contents": "塑膠太便宜方便，以至於我們習慣用一次就丟棄的容器，持續破壞生態和海洋，導致生物死亡...",
+        "link": "https://pse.is/3e6r3u",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/103598/shutterstock_1054684892.jpg_1140x855.jpg"
+      }, 
+      {
+        "ismedia": "0",
+        "title": "台灣年用150億個塑膠袋！為什麼我們該「減塑」？",
+        "contents": "塑膠太便宜方便，以至於我們習慣用一次就丟棄的容器，持續破壞生態和海洋，導致生物死亡...",
+        "link": "https://pse.is/3e6r3u",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/103598/shutterstock_1054684892.jpg_1140x855.jpg"
+      }
+    ],
+    "sliders": [
+      {
+        "ismedia": "0",
+        "title": "誰謀殺了我們的海？ 直擊怵目驚心的海廢真相",
+        "contents": "台灣海底的垃圾密度是全球平均的1.45倍！你以為的海廢，其實只有20%是海漂垃圾，80%則是來自我們陸地上...",
+        "link": "https://www.facebook.com/ProjectBlue1095/posts/114307114104551",
+        "image": "https://esg.businesstoday.com.tw/topic/projectblue1095/images/20210421_oceantrash.jpg"
+      },
+      {
+        "ismedia": "0",
+        "title": "台灣年用150億個塑膠袋！為什麼我們該「減塑」？",
+        "contents": "塑膠太便宜方便，以至於我們習慣用一次就丟棄的容器，持續破壞生態和海洋，導致生物死亡...",
+        "link": "https://pse.is/3e6r3u",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/103598/shutterstock_1054684892.jpg_1140x855.jpg"
+      },
+      {
+        "ismedia": "0",
+        "title": "台灣西海岸8大髒點，海底垃圾密度是全球1.5倍",
+        "contents": "海底垃圾過去甚少被關注，學者示警，海底垃圾不僅影響生態，最後恐經食物鏈被人類吃下肚...",
+        "link": "https://pse.is/3fa4f6",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/106839/shutterstock_235891084.jpg_1140x855.jpg"
+      },
+      {
+        "ismedia": "0",
+        "title": "這對超愛台的紐西蘭兄弟　用MIT拖鞋拯救全世界",
+        "contents": "我們懂得做拖鞋，如果能用海裡那些塑膠垃圾來做拖鞋，可以幫助台灣的海洋，或甚至全世界...",
+        "link": "https://pse.is/3d9uk2",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/christina_155/1140x855.jpg"
+      },
+      {
+        "ismedia": "0",
+        "title": "用96％海廢寶特瓶當原料！環保署組隊創「潯寶衣」",
+        "contents": "環保署與七縣市環保局及紡織業者組成國家隊，日前發表全球使用海廢原料比例最高製成產品...",
+        "link": "https://pse.is/3esxf3",
+        "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/109417/shutterstock_679622650.jpg_1140x855.jpg"
+      }
+    ]
+  },
+  "partnersData": [
+    {
+      "title": "康舒科技",
+      "intro": ["康舒科技創立於1981年，以「提供潔淨高效能源的解決方案，成為永續正循環的能量」為企業願景，以電源管理技術為核心提供客製化服務，進入全球電源供應器產業的領導廠商之列。近年因應市場轉型及氣候變遷與環境變化，除持續投入潔淨高效能源產品的研發設計，亦積極發展環保再生能源，期許將這能量轉化為推動地球永續正循環的驅動力。"],
+      "declaration": [
+        "康舒科技自1981年在新北淡水成立以來，除重視企業發展之外，環境永續及地方公益更是關注的重點。我們接軌世界呼應聯合國永續發展目標SDGs，以提高電源產品能效，善用能資源作為經營方針，強調「管理與節約水資源，創造循環使用效益」與「珍惜各項天然資源，降低資源使用成本」；落實「以人為本」的信念，「積極投入社會關懷，善盡企業社會責任」，達成企業、環境、社會多贏共融的目的。"
+      ],
+      "logo": "/topic/projectblue1095/images/acbel_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/acbel_csr.jpeg",
+      "isReady": true
+    },
+    {
+      "title": "台灣數位光訊科技",
+      "intro": [
+        "台灣數位光訊科技集團(Taiwan Optical Platform)2015年於台灣證交所上市，集團服務涵蓋三大事業體「有線電視業」、「電信事業」、「媒體事業」。主要服務地區以台中、南投、雲林、嘉義、台南五大縣市為主，全國第五大之多系統經營者(MSO)，是台灣中南部完整版圖的MSO業者。"
+      ],
+      "declaration": [
+        "台數科集團長期推動企業社會責任CSR過程，以企業獨特之媒體資源，投入公益、回饋社會。有感環境面對氣候變遷、垃圾污染，造成的海平面上升，促使海洋生態帶來嚴重巨變，2021年起將以ESG永續經營方針擴大環境及社會參與，呼應海洋台灣，成為永續發展的實踐者，為更美好的地球盡一份心力。"
+      ],
+      "logo": "/topic/projectblue1095/images/taiwan_optical_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/taiwan_optical_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "南山人壽",
+      "intro": [
+        "南山人壽深耕臺灣逾半世紀，本著「信賴」、「關懷」、「誠信」的信念，全心全力為全臺近634萬保戶，提供優質的客戶服務及保險商品，構築全方位保障，更戮力實踐企業社會責任，邁向永續經營，打造臺灣人心中最穩健的標竿企業。"
+      ],
+      "declaration": [
+        "南山人壽為落實環境永續發展的企業社會責任，長期關注海岸侵蝕與海洋汙染議題，自2012年起推動「守護海洋行動」，有計畫地透過築籬、固砂、植樹與淨灘等方式，守護台灣海岸線，是全台首家關注台灣海岸線侵蝕的企業，更在2020年率先依循「ISO 20121活動永續管理系統」標準，舉辦全台第一場永續淨灘植樹活動；此外，持續投入各項環境永續行動與倡議環保作為，以實際行動履行綠色企業的承諾。"
+      ],
+      "logo": "/topic/projectblue1095/images/nanshan_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/nanshan_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "致茂電子",
+      "intro": [
+        "致茂電子，以自有品牌”Chroma”行銷全球，引領新興科技提供量測及智動化全方位解決方案確保客戶產品的性能、品質與成功。"
+      ],
+      "declaration": [
+        "產業生態的變化與環境氣候變遷深刻影響地球上的每個人，企業除了營利、良好公司治理與員工關懷外，之於環境與社會文化的連結與貢獻，也是企業的責任與達永續發展的目標。致茂電子立足台灣放眼國際，以創新技術提供顧客更高的附加價值與服務，其測試設備能有效利用資源並善盡環境保護以回饋社會，達永續經營、綠色企業理念。"
+      ],
+      "logo": "/topic/projectblue1095/images/chroma_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/chroma_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "辛普森遊艇",
+      "intro": [
+        "辛普森遊艇成立37年，代理領先的遊艇與帆船品牌，在全球享有良好聲譽，集團提供遊艇銷售，租賃，管理，財務等優質及專業的遊艇服務。"
+      ],
+      "declaration": [
+        "自2018年以來，辛普森遊艇就開始在公司實行無塑料海洋的環保理念，支持許多地區的海洋保護和海洋恢復行動，改善海洋的清潔，並停止船展與遊艇活動中使用瓶裝水與一次性塑料品，大幅減少全公司的一次性塑料製品及設置辦公室的環保回收箱等。",
+        "未來，我們將採取更多行動，盡我們所能表明對海洋生物和環境的責任，並以實際行動對海洋環境的關注，致力於在未來幾年中，進一步發展我們在海洋領域的企業社會責任（CSR）計劃。"
+      ],
+      "logo": "/topic/projectblue1095/images/simpson_logo_short.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/simpson_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "華藝數位",
+      "intro": [
+        "airiti（華藝數位股份有限公司）秉持創新知識服務的精神，提供最有價值的知識服務，為台灣躋身國際的專業資料庫企業。"
+      ],
+      "declaration": [
+        "海洋生態與人類生活息息相關，華藝數位股份有限公司發展企業經營的同時，亦積極推展環境、社會、治理面向的相關作為，力行參與淨灘等公益活動，以實際行動減緩海洋汙染，落實環境保護，為生態盡力，長期推動企業社會責任，實踐ESG永續發展並與世界接軌。"
+      ],
+      "logo": "/topic/projectblue1095/images/airiti_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/airiti_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "技嘉科技",
+      "intro": [
+        "GIGABYTE為全球主機板、顯示卡產品的領導品牌，並於伺服器、筆電、桌上型電腦、電腦周邊等領域豎立了無以撼動的地位。"
+      ],
+      "declaration": [
+        "GIGABYTE站在深耕數位包容與社會福利多年的基礎上，以「我承諾，我做得到」為核心理念，著手擘劃更完善回應ESG三大面向的「綠動計畫」。透過設立組織準則、構築永續治理方針、建置永續生態屋頂與開發低碳產品等方式，實踐企業社會責任與塑造員工永續意識。而2015年啟動的「運綠台灣．千里足夢」—環島拾廢專案，不僅是GIGABYTE對臺灣更深的回饋與尊重，也促成了對海洋更多的關懷與關注。"
+      ],
+      "logo": "/topic/projectblue1095/images/gigabyte_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/gigabyte_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "大謙科技材料",
+      "intro": "大謙科技材料品牌核心為 簡單生活、專業防護、時尚美學。大謙的專注於最新薄膜科技，無化學添加的生活防護產品。 :dc 是大謙英文名縮寫，以「極簡」 的筆劃，以線狀筆觸層層堆疊，像是 :dc 的產品系列 :dc 克微粒（口罩）、:dc 克蟎膜（防蟎阻菌枕套）、:dc 克霾膜（紗窗過濾罩），層層保護，為家人健康把關，讓我們的生活可以過得更簡單。",
+      "declaration": [
+        "大謙深信好的產品必須兼具「利他」與「共好」, 不論是對伙伴、對客戶、與對環境。大謙克微粒口罩採用最高等級的科技防護材料，溶入美感設計，提供高防護性的安心產品。克微粒口罩可以水洗再使用，減少垃圾的產出，讓我們保護自己、安心呼吸的同時，也讓我們一起保護地球。"
+      ],
+      "logo": "/topic/projectblue1095/images/dc_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/dc_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "珂芮爾專業醫學保養",
+      "intro": "如潺潺小溪流經大地，在肌膚上形成深刻的療癒。CREEKHEAL相信，唯有將肌膚的自癒力喚醒，啟動原有的正向循環，才是從源頭做起的根本保養之道。",
+      "declaration": [
+        "CREEKHEAL珂芮爾專業醫學保養，產品除了聚焦亞洲膚質、嚴謹選材，更拒絕電鍍等危害環境的製造方式；使用完全可回收的瓶器、環保壓頭，保護土壤及水源。",
+        "推出的｢GSH多酚魚子精華霜｣以環保低碳製造，降低環境暖化危害，獲行政院環保署頒發「碳足跡標籤」，排放量僅550g。",
+        "CREEKHEAL將持續關注海洋、大地，降低任何隱性、顯性環境成本，並回饋予社會。"
+      ],
+      "logo": "/topic/projectblue1095/images/creekheal_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/creekheal_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "日月光集團",
+      "intro": "日月光集團為全球領先的半導體封裝與測試製造服務公司，旗下之日月光半導體、矽品與環旭，提供客戶包括前段測試及晶圓針測至後段封裝、材料及成品測試的一元化服務，並結合專業電子代工製造服務，提供完善的電子製造整體解決方案，以卓越技術及創新思維服務半導體、電子與數位科技市場。",
+      "declaration": [
+        "日月光集團以「低碳使命」、「循環再生」、「社會共融」與「價值共創」為四大永續發展策略，以因應氣候變遷帶來之各項風險與挑戰，並實現企業之社會責任。日月光長期關注與支持海洋環境保護議題，2021年更成立「日月光環保潛水隊」，與桃園市環保局合作為期3年之海岸及海洋環境維護計畫，目標3年內至少清除500公噸海岸海洋垃圾，共同守護海洋環境與資源。"
+      ],
+      "logo": "/topic/projectblue1095/images/ase_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/ase_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "新北市政府",
+      "intro": [
+        "新北市擁有綿延145公里的海岸線，有多元的景觀與豐富的漁業資源，而海岸環境除了有各權管單位維護外，也歡迎企業與民眾一起加入，共同守護。"
+      ],
+      "declaration": [
+        "海洋資源永續經營，不僅靠政府也需要民間力量，新北市政府不但推動海灘環境認養，更全國首創「淨灘合作社」，結合熱門淨灘海岸周邊的在地店家，組成淨灘合作社由店家協助管理提供淨灘工具給民眾，讓遊玩的民眾不只帶走自己的垃圾，還能順手撿起沙灘上的垃圾，邀請大家響應「想淨就淨」。"
+      ],
+      "logo": "/topic/projectblue1095/images/newtaipei_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/newtaipei_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "彰化縣政府",
+      "intro": [
+        "彰化的海岸線擁有全台最大的泥質潮間帶，更有獨特的海牛文化，期許透過公私協力，打造永續共生的美好家園。"
+      ],
+      "declaration": [
+        "為守護海洋環境，彰化縣政府於2020年從海、陸分別著手，除了合力由政府、蚵農、漁民組成「彰化環保艦隊」，協助打撈海廢；也號召海岸淨灘，讓彰化海岸重現既有光彩。",
+        "傳達友善海洋的理念，政府責無旁貸。除藉由淨海活動凝聚公民意識，更於大肚溪口旁新建「自然生態教育中心」（白色海豚屋），讓海洋教育向下扎根，希望永續。"
+      ],
+      "logo": "/topic/projectblue1095/images/changhua_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/changhua_csr.jpg",
+      "isReady": true
+    }
+  ],
+  "partnersCompanyData": [
+    {
+      "title": "Let’s Do It! Taiwan",
+      "declaration": [
+        "「不只是清理垃圾而已。我們致力於聯合國際社會、實施真正的變革，以實現最終目標：一個乾淨且健康的地球。」",
+        "Let's Do It! World 為聯合國10年多來的合作夥伴，亦為聯合國環境計畫(SDGs)的成員之一規模達三千六百萬志工且遍及169個國家。",
+        "2016年9月Let's Do It 授權台灣成立分支機構「Let’s Do It! Taiwan」。",
+        "2018年5月在台灣成立組織—來此淨國際志工團，立案登記於內政部代表推動系列國際公民環保動員活動，及國際環境事務在地化行動。"
+      ],
+      "logo": "/topic/projectblue1095/images/letsdoit_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/letsdoit_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "海湧工作室",
+      "declaration": [
+        "海湧工作室由一群熱愛海洋的年輕人共同創辦，致力於環境友善、海洋守護， 除了透過舉辦淨灘、講座，來倡議廢棄物的源頭減量， 更用豐富有趣的實踐行動及體驗學習，讓大家知道守護海洋的重要，並期待更多人能將這波愛海的湧浪，傳遞出去！"
+      ],
+      "logo": "/topic/projectblue1095/images/hiinstudio_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/hiinstudio_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "Ccilu 馳綠",
+      "declaration": [
+        "「Ccilu 馳綠」成立於2012年，「22 製夢所」則是 Ccilu 品牌旗下成立的創新實驗室，是讓Ccilu團隊實踐「低碳生活、永續環保， 22 歲的善良與初心」夢想的搖籃。馳綠 22 製夢所每一雙鞋都秉持著三大設計原則─「輕量柔軟、裸足舒適、環保永續」。去年推出5杯咖啡渣打造的XpreSole®咖啡小白鞋以及 15 支寶特瓶打造的 GreenPlax® 寶特鞋，在全球市場獲得消費者廣大迴響與好評。",
+        "Ccilu曾獲台北國際設計大獎、東京國際禮品設計大獎、德國iF設計大獎、五次義大利 A‘Design設計大獎、以及四次德國紅點設計大獎等十二項國際級設計桂冠。Ccilu從 2018 迄今被全球知名設計論壇評選為「全球排名第一之鞋類設計公司」，並甫於去年在矽谷再獲北美/全球百大創新企業獎，成為唯一獲獎的鞋業公司/台灣公司。"
+      ],
+      "logo": "/topic/projectblue1095/images/ccilu_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/ccilu_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "湛",
+      "declaration": [
+        "2017 年開始，一群擁有愚公移山意念的志工，利用業餘時間無償投入環境教育，共同研發港灣漂浮垃圾清潔機具。2019 年初，為了讓理念更永續地被實踐，正式成立「社團法人臺灣湛藍海洋聯盟」，並提出「智在潔淨海洋」的概念，致力於打造整合創新科技、服務設計、利害關係人教育溝通的解決方案，來系統性地改善港灣環境問題。"
+      ],
+      "logo": "/topic/projectblue1095/images/azure_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/azure_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "橘色北極熊",
+      "declaration": [
+        "橘色北極熊 (Equilibrium World) 目標是幫助企業達到永續目標，成為世界主要的永續數據 (ESG) 平台。氣候議題已經全球的關注和首要解決的問題，政府、投資人和客戶要求企業提供永續數據報告，讓最消耗能源的供應鏈也能數據透明化 。橘色北極熊可計算的指標包括溫室氣體排放量、能源、水、塑膠等等，可分析超過一百項指標，透過平台的 AI 模擬系統，即時計算碳排量的增減和花費做執行評估，平台可簡單的讓企業可自動化產生永續報告書，降低大量的顧問費和時間。橘色北極熊的客戶已經在美國、韓國和歐洲迅速擴張。",
+        "網址：eqm.ai"
+      ],
+      "logo": "/topic/projectblue1095/images/equilibrium_logo.svg",
+      "link": "https://eqm.ai",
+      "image": "/topic/projectblue1095/images/equilibrium_csr.jpg",
+      "isReady": true
+    }
+  ],
+  "supportData": [
+    { 
+      "ismedia": true,
+      "image": "8eYV2-xlmSk",
+      "link": " https://www.youtube.com/watch?v=8eYV2-xlmSk&ab_channel=%E4%BB%8A%E5%91%A8%E5%88%8A",
+      "title": "【寶特瓶真的能做拖鞋？新國民藍白拖製程大公開！】"
+    },
+    {
+      "image": "/topic/projectblue1095/images/abstract02",
+      "link": "#認購專區",
+      "title": "【寶特瓶真的能做拖鞋？新國民藍白拖製程大公開！】"
+    },
+    {
+      "image": "/topic/projectblue1095/images/abstract03",
+      "link": "#認購專區",
+      "title": "【寶特瓶真的能做拖鞋？新國民藍白拖製程大公開！】"
+    }
+  ]
+}

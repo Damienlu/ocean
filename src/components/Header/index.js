@@ -360,7 +360,7 @@ const Header = ({ menuTitles }) => {
                   </div>
                 </button>
               </div>
-              <nav className="menus hidden lg:flex font-sans text-base font-medium tracking-widest text-white divide-x">
+              <nav className="menus hidden lg:flex font-sans text-base font-medium tracking-widest text-black divide-x">
                 <div className="relative px-4">
                   <a
                     href="https://esg.businesstoday.com.tw/topic/projectblue1095"

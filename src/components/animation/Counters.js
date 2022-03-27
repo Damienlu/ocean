@@ -95,16 +95,16 @@ const Counters = ({countsData}) => {
   return (
     <Fade bottom>
     { cleanBeachNum.value > 0 &&
-            <div className="counters w-full max-w-5xl flex justify-between flex-wrap">
+            <div className="counters w-full max-w-5xl flex justify-between flex-wrap mb-20">
               <div className="counter sm:w-1/3 md:w-1/5 w-1/2 flex flex-col items-center mb-5">
                 <div className="counter-title font-medium text-center">
                   <h2>響應企業數</h2>
                 </div>
                 <div className="counter-numbers text-center">
-                  <span className="number font-light text-7xl text-primary-light">
+                  <span className="number font-light text-7xl text-white">
                     {companyNum.value}
                   </span>
-                  <span className="unit text-sm"> 家</span>
+                  <span className="unit text-sm text-white"> 家</span>
                 </div>
               </div>
               <div className="counter sm:w-1/3 md:w-1/5 w-1/2 flex flex-col items-center mb-5">
@@ -112,10 +112,10 @@ const Counters = ({countsData}) => {
                   <h2>淨灘場數</h2>
                 </div>
                 <div className="counter-numbers text-center">
-                  <span className="number font-light text-7xl text-primary-light">
+                  <span className="number font-light text-7xl text-white">
                     {cleanBeachNum.value}
                   </span>
-                  <span className="unit text-sm"> 場</span>
+                  <span className="unit text-sm text-white"> 場</span>
                 </div>
               </div>
               <div className="counter sm:w-1/3 md:w-1/5 w-1/2 flex flex-col items-center mb-5">
@@ -123,10 +123,10 @@ const Counters = ({countsData}) => {
                   <h2>海廢清除公斤數</h2>
                 </div>
                 <div className="counter-numbers text-center">
-                  <span className="number font-light text-7xl text-primary-light">
+                  <span className="number font-light text-7xl text-white">
                     {kgNum.value}
                   </span>
-                  <span className="unit text-sm"> KG</span>
+                  <span className="unit text-sm text-white"> KG</span>
                 </div>
               </div>
               <div className="counter w-1/2 sm:w-1/2 md:w-1/5  flex flex-col items-center mb-5">
@@ -134,10 +134,10 @@ const Counters = ({countsData}) => {
                   <h2 className="whitespace-nowrap">寶特瓶數(海廢+回收)</h2>
                 </div>
                 <div className="counter-numbers text-center">
-                  <span className="number font-light text-7xl text-primary-light">
+                  <span className="number font-light text-7xl text-white">
                     {bottlesNum.value}
                   </span>
-                  <span className="unit text-sm"> 個</span>
+                  <span className="unit text-sm text-white"> 個</span>
                 </div>
               </div>
               <div className="counter sm:w-1/2 md:w-1/5 w-full flex flex-col items-center mb-5">
@@ -145,10 +145,10 @@ const Counters = ({countsData}) => {
                   <h2>永續拖鞋</h2>
                 </div>
                 <div className="counter-numbers text-center">
-                  <span className="number font-light text-7xl text-primary-light">
+                  <span className="number font-light text-7xl text-white">
                   {percentNum.value}
                   </span>
-                  <span className="unit text-sm"> 雙</span>
+                  <span className="unit text-sm text-white"> 雙</span>
                 </div>
               </div>
             </div>

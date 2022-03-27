@@ -20,11 +20,11 @@
   "menuTitles": ["前導影音", "最新消息", "計畫背景", "還海夥伴", "認購專區", "專題報導"],
   "menuTitlesEng": ["INTRODUCTION", "NEWS", "BACKGROUND", "PARTNERS", "SUPPORT", "ARTICLES"],
   "counts": {
-    "company": 10,
-    "cleanBeach": 1,
-    "kg": 905,
-    "bottles": 20,
-    "percent": 0
+    "company": 12,
+    "cleanBeach": 5,
+    "kg": 2572,
+    "bottles": 9375,
+    "percent": 2000
   },
   "topicsData": [
     {

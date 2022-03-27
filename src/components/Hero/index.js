@@ -6,10 +6,11 @@ import BirdAnimation from "../../components/animation/BirdAnimation";
 import Counters from "../../components/animation/Counters";
 import Typing from "../../components/animation/Typing"
 
-import oceanLogo from "../../assets/images/ocean_logo.svg";
-import oceanLogoMobile from "../../assets/images/ocean_logo_mb.svg";
+import oceanLogo from "../../assets/images/kv/title.png";
+// import oceanLogoMobile from "../../assets/images/ocean_logo_mb.svg";
 import oceanWaves from "../../assets/images/ocean_waves.svg";
-import mountains from "../../assets/images/mountains.png";
+// import mountains from "../../assets/images/mountains.png";
+import fish from "../../assets/images/kv/fish.png";
 import flipflopLeft from "../../assets/images/flipflop_left.png";
 import flipflopRight from "../../assets/images/flipflop_right.png";
 import printLeft from "../../assets/images/print_left.png";
@@ -89,8 +90,8 @@ const Hero = ({countsData}) => {
   }, []);
 
   return (
-    <div className="hero w-full h-auto sm:h-screen flex flex-col items-center mb-48">
-          <div className="sky relative w-full h-3/5 flex flex-col items-center pt-32 overflow-hidden">
+    <div className="hero w-full h-auto flex flex-col items-center mb-48">
+          <div className="sky relative w-full flex flex-col items-center pt-32 overflow-hidden">
             <Fade bottom>
             <div className="title w-5/6 max-w-lg mb-10">
               <h1 className="hidden">
@@ -102,7 +103,7 @@ const Hero = ({countsData}) => {
                 alt="還海行動1095 還海一片湛藍之海廢再生計畫 logo"
               />
               <img
-                src={oceanLogoMobile}
+                src={oceanLogo}
                 className="sm:hidden block w-full h-full"
                 alt="還海行動1095 還海一片湛藍之海廢再生計畫 logo"
               />
@@ -112,20 +113,23 @@ const Hero = ({countsData}) => {
               <BirdAnimation />
             </div>
             <Counters countsData={countsData}/>
-
+            <div className="fish w-3/5 mb-20">
+              <img src={fish} alt="fish" />
+            </div>
+{/* 
             <div className="mountain absolute bottom-0 w-full flex items-end">
               <img
                 className="w-full object-cover"
                 src={mountains}
                 alt="Mountains"
               />
-            </div>
+            </div> */}
           </div>
 
           <div className="ocean relative w-full h-2/5 overflow-hidden">
             <div className="ocean_waves w-full h-full">
               <img
-                className="h-full sm:w-full  object-cover"
+                className="h-full sm:w-full object-cover"
                 src={oceanWaves}
                 alt="ocean waves"
               />

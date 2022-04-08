@@ -100,7 +100,6 @@ body {
     top: 0%;
     left: 29%;
     width: 43%;
-
   }
 }
 
@@ -538,6 +537,10 @@ body {
 footer{
   table{
     font-weight: 600;
+
+    .h-logo {
+      height: 30px;
+    }
   }
 }
 

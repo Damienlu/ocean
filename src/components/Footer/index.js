@@ -7,7 +7,7 @@ import esgLogo from "../../assets/images/esg_logo.svg";
 import acbelLogo from "../../assets/images/acbel_logo.svg";
 import taiwanOpticalLogo from "../../assets/images/taiwan_optical_short_logo.svg";
 import nanshanLogo from "../../assets/images/nanshan_logo.svg";
-import chromaLogo from "../../assets/images/chroma_logo_long.svg";
+// import chromaLogo from "../../assets/images/chroma_logo_long.svg";
 import simpsonLogo from "../../assets/images/simpson_logo.svg";
 import airitiLogo from "../../assets/images/airiti_logo.svg";
 import changhuaLogo from "../../assets/images/changhua_logo.svg";
@@ -22,6 +22,15 @@ import creekhealLogo from "../../assets/images/creekheal_logo.svg";
 import letsdoitLogo from "../../assets/images/letsdoit_logo.svg";
 import aseLogo from "../../assets/images/ase_logo.svg";
 import newTaipeiLogo from "../../assets/images/newtaipei_logo.svg";
+import taichungLogo from "../../assets/images/logo/台中市政府環境保護局.svg";
+import sinoPacLogo from "../../assets/images/logo/永豐金控.svg";
+import kindomLogo from "../../assets/images/logo/冠德建設.svg";
+import kedgeLogo from "../../assets/images/logo/根基營造.svg";
+import KaohsiungLogo from "../../assets/images/logo/高雄市政府環境保護局.svg";
+import hpLogo from "../../assets/images/logo/惠普科技.svg";
+import gloriDomainLogo from "../../assets/images/logo/榮甸國際.svg";
+import chromaLogo from "../../assets/images/logo/Chroma致茂電子.svg";
+import globalmallLogo from "../../assets/images/logo/Globalmall.svg";
 
 const Footer = () => {
   return (
@@ -41,15 +50,45 @@ const Footer = () => {
                 <td className="align-top pr-2 w-20">推動夥伴：</td>
                 <td className="flex flex-wrap mb-5">
                   <img
-                    className="px-3 mb-5"
-                    src={acbelLogo}
-                    alt="康舒科技 logo"
-                  />
-                  <img
-                    className="px-3 mb-5"
+                    className="px-3 mb-8"
                     src={taiwanOpticalLogo}
                     alt="台灣數位光訊科技股份有限公司 logo"
                   />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={chromaLogo}
+                    alt="致茂電子 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={hpLogo}
+                    alt="惠普科技 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={sinoPacLogo}
+                    alt="永豐金控 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={kindomLogo}
+                    alt="冠德建設 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={kedgeLogo}
+                    alt="根基營造 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo"
+                    src={globalmallLogo}
+                    alt="Globalmall logo"
+                  />
+                  <img
+                      className="px-3 mb-8"
+                      src={gigabyteLogo}
+                      alt="技嘉科技 logo"
+                    />
                 </td>
               </tr>
               <tr>
@@ -61,43 +100,15 @@ const Footer = () => {
                     alt="南山人壽 logo"
                   />
                   <img
-                    className="px-3 mb-8"
-                    src={chromaLogo}
-                    alt="致茂電子 logo"
+                    className="px-3 mb-8 h-logo"
+                    src={gloriDomainLogo}
+                    alt="榮甸國際 logo"
                   />
                   <img
                     className="px-3 mb-8"
-                    src={simpsonLogo}
-                    alt="辛普森遊艇 logo"
+                    src={nanshanLogo}
+                    alt="南山人壽 logo"
                   />
-                  <img
-                    className="px-3 mb-8"
-                    src={airitiLogo}
-                    alt="康舒科技 logo"
-                  />
-                  <img
-                    className="px-3 mb-8"
-                    src={gigabyteLogo}
-                    alt="技嘉科技 logo"
-                  />
-
-                  <img
-                    className="px-3 mb-8"
-                    src={dcLogo}
-                    alt="大謙科技材料 logo"
-                  />
-                  <img
-                    className="px-3 mb-8"
-                    src={creekhealLogo}
-                    alt="珂芮爾專業醫學保養 logo"
-                  />
-                  <img
-                    className="px-3 mb-8"
-                    src={aseLogo}
-                    alt="日月光集團 logo"
-                  />
-                  
-
                 </td>
               </tr>
               <tr>
@@ -109,7 +120,52 @@ const Footer = () => {
                     alt="新北市政府 logo"
                   />
                   <img
-                    className="px-3 mb-5"
+                    className="px-3 mb-5 h-logo"
+                    src={taichungLogo}
+                    alt="台中市政府環境保護局 logo"
+                  />
+                  <img
+                    className="px-3 mb-5 h-logo"
+                    src={KaohsiungLogo}
+                    alt="高雄市政府環境保護局 logo"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td className="align-top pr-2 w-20">創始夥伴：</td>
+                <td className="flex flex-wrap mb-5">
+                  <img
+                    className="px-3 mb-8"
+                    src={acbelLogo}
+                    alt="康舒科技 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={aseLogo}
+                    alt="日月光集團 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={simpsonLogo}
+                    alt="辛普森遊艇 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={airitiLogo}
+                    alt="華藝數位 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={creekhealLogo}
+                    alt="珂芮爾專業醫學保養 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={dcLogo}
+                    alt="大謙科技材料 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
                     src={changhuaLogo}
                     alt="彰化縣政府 logo"
                   />
@@ -124,14 +180,14 @@ const Footer = () => {
                     alt="Let’s Do It! Taiwan logo"
                   />
                   <img
-                    className="px-3 h-10 mb-5"
-                    src={hiinLogo}
-                    alt="海湧工作室 logo"
-                  />
-                  <img
                     className="px-3 mb-5"
                     src={cciluLogo}
                     alt="馳綠企業 logo"
+                  />
+                  <img
+                    className="px-3 h-10 mb-5"
+                    src={hiinLogo}
+                    alt="海湧工作室 logo"
                   />
                   <img className="px-3 mb-5" src={azureLogo} alt="湛 logo" />
                   <img

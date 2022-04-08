@@ -11,6 +11,7 @@ import oceanLogo from "../../assets/images/kv/title.png";
 import oceanWaves from "../../assets/images/ocean_waves.svg";
 // import mountains from "../../assets/images/mountains.png";
 import fish from "../../assets/images/kv/fish.png";
+import trashShip from "../../assets/images/kv/trash-ship.png";
 import flipflopLeft from "../../assets/images/flipflop_left.png";
 import flipflopRight from "../../assets/images/flipflop_right.png";
 import printLeft from "../../assets/images/print_left.png";
@@ -113,17 +114,21 @@ const Hero = ({countsData}) => {
               <BirdAnimation />
             </div>
             <Counters countsData={countsData}/>
-            <div className="fish w-3/5 mb-20">
-              <img src={fish} alt="fish" />
+            <div className="fish relative w-4/5 mb-20 md:w-3/5">
+              <img className="fish_around" src={fish} alt="fish" />
+              <div className="ship ship_waves absolute">
+                <img src={trashShip} alt="trashShip" />
+              </div>
             </div>
-{/* 
-            <div className="mountain absolute bottom-0 w-full flex items-end">
-              <img
-                className="w-full object-cover"
-                src={mountains}
-                alt="Mountains"
-              />
-            </div> */}
+            {/* 
+              <div className="mountain absolute bottom-0 w-full flex items-end">
+                <img
+                  className="w-full object-cover"
+                  src={mountains}
+                  alt="Mountains"
+                />
+              </div>
+            */}
           </div>
 
           <div className="ocean relative w-full h-2/5 overflow-hidden">

@@ -95,6 +95,13 @@ body {
   @include media-768 {
     min-height: 680px;
   }
+
+  .ship {
+    top: 0%;
+    left: 29%;
+    width: 43%;
+
+  }
 }
 
 .counter-numbers .number{
@@ -323,7 +330,7 @@ body {
     transform: scaleY(0.8) translateY(0px);
   }
   25%{
-    transform: scaleY(1) translateY(10px);
+    transform: rotatetranslateY(10px);
   }
   27%{
     transform: scaleY(1) translateY(10px);
@@ -332,6 +339,93 @@ body {
     transform: scaleY(0.8) translateY(0px);
   }
 }
+
+
+.fish_around{
+  animation: fish-around 8s linear infinite;
+}
+
+@keyframes fish-around {
+  0% {
+    transform: rotate(6deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  80%{
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(-6deg);
+    opacity: 0;
+  }
+}
+// @keyframes fish-around {
+//   0% {
+//     transform: scale(0.9, 1) rotate3d(0.4, 1, 1, 0deg);
+//     opacity: 1;
+//   }
+//   12.5%{
+//     transform: scale(0.95, 1) rotate3d(0.4, 0.9, 1, -45deg);
+//   }
+//   25%{
+//     transform: scale(1, 1) rotate3d(0.4, 0.4, 1, -90deg);
+//   }
+//   37.5%{
+//     transform: rotate3d(0.4, 0.1, 1, -135deg);
+//     opacity: 0.5;
+//   }
+//   50%{
+//     transform: rotate3d(0.4, 0, 1, -180deg);
+//   }
+//   62.5%{
+//     transform: rotate3d(0.4, -0.1, 1, -225deg);
+//     opacity: 0.5;
+//   }
+//   75%{
+//     transform: scale(1, 1) rotate3d(0.4, -0.4, 1, -270deg);
+//   }
+//   87.5%{
+//     transform: scale(0.95, 1) rotate3d(0.4, -0.9, 1, -315deg);
+//   }
+//   100% {
+//     transform: scale(0.9, 1) rotate3d(0.4, -1, 1, -360deg);
+//     opacity: 1;
+//   }
+// }
+
+.ship_waves{
+  animation: ship-waves 6s linear infinite;
+}
+
+@keyframes ship-waves {
+  0% {
+    transform: translateY(0);
+  }
+  25%{
+    transform: translateY(-3%);
+  }
+  50%{
+    transform: translateY(3%);
+  }
+  62.5% {
+    transform: translateY(-1.5%);
+  }
+  75% {
+    transform: translateY(1%);
+  }
+  87.5% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
 
 // Slick Slider
 

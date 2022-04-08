@@ -27,6 +27,7 @@ const ESGAnimation = () => {
     return (<Lottie
         animationData={EsgAnimation}
         interactivity={interactivity}
+        loop={true}
       />);
   };
    

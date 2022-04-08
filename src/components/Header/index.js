@@ -360,7 +360,7 @@ const Header = ({ menuTitles }) => {
                   </div>
                 </button>
               </div>
-              <nav className="menus hidden lg:flex font-sans text-base font-medium tracking-widest text-black divide-x">
+              <nav className={clsx("menus hidden lg:flex font-sans text-base font-medium tracking-widest divide-x", !top && "text-white", top && "text-black")}>
                 <div className="relative px-4">
                   <a
                     href="https://esg.businesstoday.com.tw/topic/projectblue1095"
@@ -371,7 +371,7 @@ const Header = ({ menuTitles }) => {
                 </div>
                 {menuTitles.map((title, i) => {
                   return (
-                    <div className="relative px-4" key={`menu_item${i}`}>
+                    <div className={clsx("relative px-4", !top && "border-white", top && "border-black")} key={`menu_item${i}`}>
                       <a
                         href={`#${title}`}
                         className="text-center inline-flex transition-all hover:text-gray-800 duration-300 outline-none focus:outline-none"

@@ -22,15 +22,16 @@ import creekhealLogo from "../../assets/images/creekheal_logo.svg";
 import letsdoitLogo from "../../assets/images/letsdoit_logo.svg";
 import aseLogo from "../../assets/images/ase_logo.svg";
 import newTaipeiLogo from "../../assets/images/newtaipei_logo.svg";
-import taichungLogo from "../../assets/images/logo/台中市政府環境保護局.svg";
-import sinoPacLogo from "../../assets/images/logo/永豐金控.svg";
-import kindomLogo from "../../assets/images/logo/冠德建設.svg";
-import kedgeLogo from "../../assets/images/logo/根基營造.svg";
-import KaohsiungLogo from "../../assets/images/logo/高雄市政府環境保護局.svg";
-import hpLogo from "../../assets/images/logo/惠普科技.svg";
-import gloriDomainLogo from "../../assets/images/logo/榮甸國際.svg";
-import chromaLogo from "../../assets/images/logo/Chroma致茂電子.svg";
-import globalmallLogo from "../../assets/images/logo/Globalmall.svg";
+import taichungLogo from "../../assets/images/logo/taichung_logo.svg";
+import sinoPacLogo from "../../assets/images/logo/sinoPac_logo.svg";
+import kindomLogo from "../../assets/images/logo/kindom_logo.svg";
+import kedgeLogo from "../../assets/images/logo/kedge_logo.svg";
+import brotherLogo from "../../assets/images/logo/brother_logo.svg";
+import KaohsiungLogo from "../../assets/images/logo/Kaohsiung_logo.svg";
+import hpLogo from "../../assets/images/logo/hp_logo.svg";
+import gloriDomainLogo from "../../assets/images/logo/gloriDomain_logo.svg";
+import chromaLogo from "../../assets/images/logo/chroma_logo2.svg";
+import globalmallLogo from "../../assets/images/logo/Globalmall_logo.svg";
 
 const Footer = () => {
   return (
@@ -95,9 +96,9 @@ const Footer = () => {
                 <td className="align-top pr-2 w-20">響應夥伴：</td>
                 <td className="flex flex-wrap mb-5">
                   <img
-                    className="px-3 mb-8"
-                    src={nanshanLogo}
-                    alt="南山人壽 logo"
+                    className="px-3 mb-8 h-logo"
+                    src={brotherLogo}
+                    alt="Brother logo"
                   />
                   <img
                     className="px-3 mb-8 h-logo"

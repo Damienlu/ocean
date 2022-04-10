@@ -207,83 +207,85 @@ const Partners = ({
             </button>
           </div>
 
-          <div className="border border-primary-lighter bg-white bg-opacity-95 overflow-y-scroll md:overflow-visible flex flex-col md:flex-row w-5/6 md:w-11/12 max-w-screen-lg h-5/6 md:h-auto py-10 px-8 md:py-24 md:px-20 relative shadow-lg rounded-xl">
-            <div className="partners_intro w-full md:w-1/2 md:pr-10">
-              <div
-                className={clsx(
-                  isCompany && "mb-10 md:mb-0",
-                  !isCompany && "mb-10",
-                  "w-full"
-                )}
-              >
-                <img
-                  className="w-full h-full object-cover"
-                  style={{maxHeight:'330px'}}
-                  src={partner.image}
-                  alt="partners CSR"
-                />
-              </div>
-              <div
-                className={clsx(
-                  isCompany && "hidden",
-                  "introduction mb-10 md:mb-0"
-                )}
-              >
-                <h4
+          <div className="border border-primary-lighter bg-white bg-opacity-95 overflow-y-auto max-h-modal w-5/6 md:w-11/12 max-w-screen-lg h-5/6 md:h-auto relative shadow-lg rounded-xl">
+            <div className="flex flex-col md:flex-row py-10 px-8 md:py-24 md:px-20 relative">
+              <div className="partners_intro w-full md:w-1/2 md:pr-10">
+                <div
                   className={clsx(
-                    "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                    isCompany && "mb-10 md:mb-0",
+                    !isCompany && "mb-10",
+                    "w-full"
                   )}
                 >
-                  {partner.title}
-                </h4>
-                {partner.intro &&
-                  partner.intro.map((content, i) => {
-                    return (
-                      <p
-                        key={`content${i}`}
-                        className="text-sm font-medium mb-3"
-                      >
-                        {content}
-                      </p>
-                    );
-                  })}
-              </div>
-            </div>
-
-            <div className="declaration w-full md:w-1/2 flex flex-col justify-between pl-0 md:pl-10 border-none md:border-l border-primary-light">
-              <div
-                className={clsx(isCompany && "mb-10", "declaration_text mb-10")}
-              >
-                <h3
+                  <img
+                    className="w-full h-full object-cover"
+                    style={{maxHeight:'330px'}}
+                    src={partner.image}
+                    alt="partners CSR"
+                  />
+                </div>
+                <div
                   className={clsx(
                     isCompany && "hidden",
-                    "text-primary-medium font-black text-xl mb-4"
+                    "introduction mb-10 md:mb-0"
                   )}
                 >
-                  夥伴永續宣言
-                </h3>
-
-                <h4
-                  className={clsx(
-                    !isCompany && "hidden",
-                    "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
-                  )}
-                >
-                  {partner.title}
-                </h4>
-
-                {partner.declaration &&
-                  partner.declaration.map((content, i) => {
-                    return (
-                      <p
-                        key={`content${i}`}
-                        className="text-base font-medium mb-3"
-                      >
-                        {content}
-                      </p>
-                    );
-                  })}
+                  <h4
+                    className={clsx(
+                      "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                    )}
+                  >
+                    {partner.title}
+                  </h4>
+                  {partner.intro &&
+                    partner.intro.map((content, i) => {
+                      return (
+                        <p
+                          key={`content${i}`}
+                          className="text-sm font-medium mb-3"
+                        >
+                          {content}
+                        </p>
+                      );
+                    })}
+                </div>
               </div>
+              <div className="declaration w-full md:w-1/2 flex flex-col justify-between pl-0 md:pl-10 border-none md:border-l border-primary-light">
+                <div
+                  className={clsx(isCompany && "mb-10", "declaration_text mb-10")}
+                >
+                  <h3
+                    className={clsx(
+                      isCompany && "hidden",
+                      "text-primary-medium font-black text-xl mb-4"
+                    )}
+                  >
+                    夥伴永續宣言
+                  </h3>
+
+                  <h4
+                    className={clsx(
+                      !isCompany && "hidden",
+                      "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                    )}
+                  >
+                    {partner.title}
+                  </h4>
+
+                  {partner.declaration &&
+                    partner.declaration.map((content, i) => {
+                      return (
+                        <p
+                          key={`content${i}`}
+                          className="text-base font-medium mb-3"
+                        >
+                          {content}
+                        </p>
+                      );
+                    })}
+                </div>
+            </div>
+
               {/* <a
                 className={clsx(isCompany && "hidden", "border-primary-lighter self-end group  transition-all duration-500 pl-5 pr-1 py-1 hover:pl-5 hover:pr-4 border-6 bg-primary-medium cursor-pointer font-bold text-white hover:bg-primary-dark tracking-widest rounded-2xl")}
                 href={partner.link}

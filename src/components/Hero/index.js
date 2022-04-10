@@ -11,7 +11,10 @@ import oceanLogo from "../../assets/images/kv/title.png";
 import oceanWaves from "../../assets/images/ocean_waves.svg";
 // import mountains from "../../assets/images/mountains.png";
 import fish from "../../assets/images/kv/fish.png";
-import trashShip from "../../assets/images/kv/trash-ship.png";
+import net from "../../assets/images/kv/net.png";
+import ship from "../../assets/images/kv/ship.png";
+import trashOutside from "../../assets/images/kv/trash-outside.png";
+import trashInside from "../../assets/images/kv/trash-inside.png";
 import flipflopLeft from "../../assets/images/flipflop_left.png";
 import flipflopRight from "../../assets/images/flipflop_right.png";
 import printLeft from "../../assets/images/print_left.png";
@@ -117,7 +120,10 @@ const Hero = ({countsData}) => {
             <div className="fish relative w-4/5 mb-20 md:w-3/5">
               <img className="fish_around" src={fish} alt="fish" />
               <div className="ship ship_waves absolute">
-                <img src={trashShip} alt="trashShip" />
+                <img src={ship} alt="ship" />
+                <img className="net_catch absolute w-full inset-0" src={net} alt="net" />
+                <img className="trash_catch absolute w-full inset-0" src={trashInside} alt="trashInside" />
+                <img className="absolute w-full inset-0" src={trashOutside} alt="trashOutside" />
               </div>
             </div>
             {/* 

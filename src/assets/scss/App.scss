@@ -425,6 +425,76 @@ body {
   }
 }
 
+.net_catch{
+  transform-origin: 50% 12%;
+  animation: net-catch 10s linear infinite;
+}
+
+@keyframes net-catch {
+  0% {
+    opacity: 0;
+  }
+  15% {
+    transform: scale(1.15);
+    opacity: 0;
+  }
+  35%{
+    transform: scale(1.15);
+    opacity: 0;
+  }
+  45%{
+    transform: scale(1);
+    opacity: 1;
+  }
+  50%{
+    transform: scale(1);
+    opacity: 1;
+  }
+  85%{
+    transform: scale(0.2);
+    opacity: 1;
+  }
+  95% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.trash_catch{
+  transform-origin: 50% 12%;
+  animation: trash-catch 10s linear infinite;
+}
+
+@keyframes trash-catch {
+  0% {
+    opacity: 0;
+  }
+  15% {
+    opacity: 0;
+  }
+  25%{
+    opacity: 1;
+  }
+  50%{
+    transform: scale(1);
+    opacity: 1;
+  }
+  85%{
+    transform: scale(0.2);
+    opacity: 1;
+  }
+  95% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 
 // Slick Slider
 

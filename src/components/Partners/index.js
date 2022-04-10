@@ -218,6 +218,7 @@ const Partners = ({
               >
                 <img
                   className="w-full h-full object-cover"
+                  style={{maxHeight:'330px'}}
                   src={partner.image}
                   alt="partners CSR"
                 />
@@ -235,7 +236,17 @@ const Partners = ({
                 >
                   {partner.title}
                 </h4>
-                <p className="text-sm font-medium">{partner.intro}</p>
+                {partner.intro &&
+                  partner.intro.map((content, i) => {
+                    return (
+                      <p
+                        key={`content${i}`}
+                        className="text-sm font-medium mb-3"
+                      >
+                        {content}
+                      </p>
+                    );
+                  })}
               </div>
             </div>
 

@@ -154,17 +154,6 @@
   },
   "partnersData": [
     {
-      "title": "康舒科技",
-      "intro": ["康舒科技創立於1981年，以「提供潔淨高效能源的解決方案，成為永續正循環的能量」為企業願景，以電源管理技術為核心提供客製化服務，進入全球電源供應器產業的領導廠商之列。近年因應市場轉型及氣候變遷與環境變化，除持續投入潔淨高效能源產品的研發設計，亦積極發展環保再生能源，期許將這能量轉化為推動地球永續正循環的驅動力。"],
-      "declaration": [
-        "康舒科技自1981年在新北淡水成立以來，除重視企業發展之外，環境永續及地方公益更是關注的重點。我們接軌世界呼應聯合國永續發展目標SDGs，以提高電源產品能效，善用能資源作為經營方針，強調「管理與節約水資源，創造循環使用效益」與「珍惜各項天然資源，降低資源使用成本」；落實「以人為本」的信念，「積極投入社會關懷，善盡企業社會責任」，達成企業、環境、社會多贏共融的目的。"
-      ],
-      "logo": "/topic/projectblue1095/images/acbel_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/acbel_csr.jpeg",
-      "isReady": true
-    },
-    {
       "title": "台灣數位光訊科技",
       "intro": [
         "台灣數位光訊科技集團(Taiwan Optical Platform)2015年於台灣證交所上市，集團服務涵蓋三大事業體「有線電視業」、「電信事業」、「媒體事業」。主要服務地區以台中、南投、雲林、嘉義、台南五大縣市為主，全國第五大之多系統經營者(MSO)，是台灣中南部完整版圖的MSO業者。"
@@ -175,6 +164,102 @@
       "logo": "/topic/projectblue1095/images/taiwan_optical_logo.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
       "image": "/topic/projectblue1095/images/taiwan_optical_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "致茂電子",
+      "intro": [
+        "致茂文教基金會以推動青少年教育、藝術人文教育、科技新知教育、環境永續教育及關懷弱勢，創造和諧進步之社會為目的。"
+      ],
+      "declaration": [
+        "致茂專注於精密電子量測技術，引領科技產業發展與環境永續，秉持關懷分享的企業文化，於今年成立致茂文教基金會，持續投入科技、人文與環境教育，培育優秀產業人才，藉由基金會的成立擴大對於環境永續、社會關懷與企業社會責任的推動。"
+      ],
+      "logo": "/topic/projectblue1095/images/chroma_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/chroma_csr2.jpg",
+      "isReady": true
+    },
+    {
+      "title": "HP",
+      "intro": [
+        "HP的願景是創造能讓所有人隨時隨地享受優質生活的科技，這樣的願景激勵並鼓舞著我們要打造出令人驚豔的美好體驗。人們的工作方式、玩樂方式，以及生活方式會不斷革新，而我們的科技將伴您一同迎向嶄新的世界。"
+      ],
+      "declaration": [
+        "HP的目標是在2030年成為世界上最具可永續性和公正性的科技公司。我們制定了具備企圖心的時程，以科學為本，確保與聯合國永續發展目標保持一致，將HP與我們這個時代最急迫的問題連結起來。在氣候行動、人權和數位平等議題上，以身作則，讓品牌為世界帶來正面的影響力。",
+        "1991年起，HP就開始推動地球夥伴計畫，截至2020年為止，高達85％以上的HP原廠墨水匣、100％的HP原廠碳粉匣及不同商務型筆電產品中皆有不同比例的再利用或可再生的材料。"
+      ],
+      "logo": "/topic/projectblue1095/images/hp_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/hp_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "永豐金控",
+      "intro": [
+        "永豐金控設立於2002年5月9日旗下子公司涵括銀行、證券、投信、租賃及創業投資等金融產業。海外服務點遍及香港、澳門、南京、上海、廣州、重慶、成都、天津、東莞、昆山、廈門、銀川、胡志明、河內、曼谷、仰光、洛杉磯及倫敦等地；其完整金融版圖，持續轉型創新的步伐，強調以人為核心，以專業為根本，以誠信為基石，提供客戶金融整體解決方案。"
+      ],
+      "declaration": [
+        "永豐金控以「誠信篤實」、「財富永傳」、「環境永續」、「社會共榮」四大永續使命，以及「消弭不平等」、「減緩與調適氣候變遷」、「促進共榮成長」三大永續承諾，擘劃各項永續行動方案，聚焦呼應8項聯合國永續發展目標，以具體行動落實永續治理及企業社會責任。"
+      ],
+      "logo": "/topic/projectblue1095/images/sinoPac_logo2.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/sinoPac_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "根基(冠德企業)",
+      "intro": [
+        "冠德建設全方位跨足幸福產業，從居住、娛樂直達心靈改革的教育層面，強調以人為本、有內涵深度的建築，為消費者打造的不僅是美好的硬體，更涵蓋生活層面的滿足，以「秉持誠信、精緻服務，持續創新、永續經營」理念，提供優質產品，期許透過建築，書寫生活美好篇章，持續為這片土地灌溉美學、知識與人文涵養。"
+      ],
+      "declaration": [
+        "冠德企業集團依循著「誠信、服務、創新、永續」的經營理念不斷前進，集團擘劃ESG策略藍圖，係以貼近核心子公司之產業特性發展，並對應SDGs指標而生；以綠色家園、智慧城市、幸福社會，成為深植冠德企業集團DNA的重要理念！"
+      ],
+      "logo": "/topic/projectblue1095/images/kindom_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/kindom_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "技嘉科技",
+      "intro": [
+        "GIGABYTE為全球主機板、顯示卡產品的領導品牌，並於伺服器、筆電、桌上型電腦、電腦周邊等領域樹立了無以撼動的地位。"
+      ],
+      "declaration": [
+        "GIGABYTE站在深耕數位包容與社會福利多年的基礎上，以「我承諾，我做得到」為核心理念，著手擘劃更完善回應ESG三大面向的「綠動計畫」。透過設立組織準則、構築永續治理方針、建置永續生態屋頂與開發低碳產品等方式，實踐企業社會責任與塑造員工永續意識。而2015年啟動的「運綠台灣．千里足夢」—環島拾廢專案，不僅是GIGABYTE對臺灣更深的回饋與尊重，也促成了對海洋更多的關懷與關注。"
+      ],
+      "logo": "/topic/projectblue1095/images/gigabyte_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/gigabyte_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "Brother",
+      "intro": [
+        "Brother集團總部位於日本名古屋，創立至今已超過110年，目前於全球44個國家中設有17個生產據點和52個銷售公司。",
+        "Brother設計生產高品質、高耐用性的產品，在列印、文件與影像處理、標籤及縫紉機市場已成為全球領導品牌，主要產品線包含雷射與噴墨印表機、複合機、以及應用範圍廣泛的家用和工業用標籤機與縫紉刺繡紉機等等。",
+        "集團秉持著「顧客至上」的方針，以全面的解決方案滿足顧客的需求，發揮企業社會責任，矢志成為信賴的品牌。"
+      ],
+      "declaration": [
+        "日本百年工藝品牌Brother秉持「At Your Side（顧客至上）」的企業理念，站在客戶端以「利他」立場換位思考，基於集團環境政策，努力從全球商業活動中創造社會價值，倡導針對環境、社會及企業治理準則 (ESG)的管理，並針對實現聯合國各項SDGs目標制定集團環境願景2050計畫。Brother集團積極履行企業社會責任，鼓勵世界各地的分公司，積極參與回饋社會的活動，以集團力量為地球環境永續發展盡一份心力。",
+        "Brother遵循聯合國全球盟約（UNGC）的原則，供應鏈已於2019年加入符合世界標準的責任商業聯盟（RBA），在全球推動相應行動。Brother集團也於2020年入選日本富時永續指數系列（FTSE4Good Index Series），實踐對ESG 投資者的承諾。"
+      ],
+      "logo": "/topic/projectblue1095/images/brother_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/brother_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "榮甸",
+      "intro": [
+        "純粹 | 革新 | 喜悅",
+        "榮甸國際成立於2020年，創辦人陳宜鋒先生同時身為以色列國家基金(Keren Hayesod)的台灣代表主席。因著有感於人們⽣活基礎需求-「空氣」與「水」的問題日趨嚴重，進而引進新創科技強國以色列的卓越產品、提出可實踐的解決⽅案。盼望藉著以色列TIKKUN OLAM 修復世界之特性，能為台灣帶來美善的生活環境，並賦予人們對生活喜悅的新想像。"
+      ],
+      "declaration": [
+        "榮甸國際因著台灣國人肺部疾病成為新國病且日趨嚴重的問題，全力推廣「職場呼吸健康安全」的企業責任，並於疫情期間和政府單位合作提供醫療前線人員認可的安全保護；面對全球乾旱、水資源匱乏以及台灣龐大塑料瓶使用的問題，致力提供企業、政府單位到民眾最環保且最頂級的飲用水解決方案，共同打造健康且永續的居住環境。"
+      ],
+      "logo": "/topic/projectblue1095/images/gloriDomain_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/gloriDomain_csr.jpg",
       "isReady": true
     },
     {
@@ -191,16 +276,67 @@
       "isReady": true
     },
     {
-      "title": "致茂電子",
+      "title": "新北市政府",
       "intro": [
-        "致茂文教基金會以推動青少年教育、藝術人文教育、科技新知教育、環境永續教育及關懷弱勢，創造和諧進步之社會為目的。"
+        "新北市擁有綿延145公里的海岸線，有多元的景觀與豐富的漁業資源，而海岸環境除了有各權管單位維護外，也歡迎企業與民眾一起加入，共同守護。"
       ],
       "declaration": [
-        "致茂專注於精密電子量測技術，引領科技產業發展與環境永續，秉持關懷分享的企業文化，於今年成立致茂文教基金會，持續投入科技、人文與環境教育，培育優秀產業人才，藉由基金會的成立擴大對於環境永續、社會關懷與企業社會責任的推動。"
+        "海洋資源永續經營，不僅靠政府也需要民間力量，新北市政府不但推動海灘環境認養，更全國首創「淨灘合作社」，結合熱門淨灘海岸周邊的在地店家，組成淨灘合作社由店家協助管理提供淨灘工具給民眾，讓遊玩的民眾不只帶走自己的垃圾，還能順手撿起沙灘上的垃圾，邀請大家響應「想淨就淨」。"
       ],
-      "logo": "/topic/projectblue1095/images/chroma_logo.svg",
+      "logo": "/topic/projectblue1095/images/newtaipei_logo.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/chroma_csr2.jpg",
+      "image": "/topic/projectblue1095/images/newtaipei_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "臺中市政府環保局",
+      "intro": [
+        "台中市海岸線擁有豐富及多樣的海洋漁業資源及生態保護區，如高美濕地及大肚溪口野生動物保護區等，本局關注海洋廢棄物議題及強化民眾海洋保護意識，期以有效清除海漂(底)垃圾，恢復海洋美麗風貌，達成永續海洋目標。"
+      ],
+      "declaration": [
+        "為使海洋永續經營，臺中市環保局自106及109年開始招募環保艦隊及潛海戰將共同成立本市「淨海聯盟」，目前已有191艘環保艦隊及140位潛海戰將共同打擊海漂(底)廢棄物！",
+        "為達源頭減量減少更多廢棄物流入海洋中，各港口皆已設有海漂廢棄物暫置區，鼓勵漁民自主清除，此外本局亦致力於海洋環境教育宣導、海廢再製及追蹤等宣導活動辦理，讓海洋教育向下扎根，永續海洋。"
+      ],
+      "logo": "/topic/projectblue1095/images/taichung_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/taichung_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "高雄市政府環境保護局",
+      "intro": [
+        ""
+      ],
+      "declaration": [
+        ""
+      ],
+      "logo": "/topic/projectblue1095/images/Kaohsiung_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/kindom_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "康舒科技",
+      "intro": ["康舒科技創立於1981年，以「提供潔淨高效能源的解決方案，成為永續正循環的能量」為企業願景，以電源管理技術為核心提供客製化服務，進入全球電源供應器產業的領導廠商之列。近年因應市場轉型及氣候變遷與環境變化，除持續投入潔淨高效能源產品的研發設計，亦積極發展環保再生能源，期許將這能量轉化為推動地球永續正循環的驅動力。"],
+      "declaration": [
+        "康舒科技自1981年在新北淡水成立以來，除重視企業發展之外，環境永續及地方公益更是關注的重點。我們接軌世界呼應聯合國永續發展目標SDGs，以提高電源產品能效，善用能資源作為經營方針，強調「管理與節約水資源，創造循環使用效益」與「珍惜各項天然資源，降低資源使用成本」；落實「以人為本」的信念，「積極投入社會關懷，善盡企業社會責任」，達成企業、環境、社會多贏共融的目的。"
+      ],
+      "logo": "/topic/projectblue1095/images/acbel_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/acbel_csr.jpeg",
+      "isReady": true
+    },
+    {
+      "title": "日月光集團",
+      "intro": [
+        "日月光集團為全球領先的半導體封裝與測試製造服務公司，旗下之日月光半導體、矽品與環旭，提供客戶包括前段測試及晶圓針測至後段封裝、材料及成品測試的一元化服務，並結合專業電子代工製造服務，提供完善的電子製造整體解決方案，以卓越技術及創新思維服務半導體、電子與數位科技市場。"
+      ],
+      "declaration": [
+        "日月光集團以「低碳使命」、「循環再生」、「社會共融」與「價值共創」為四大永續發展策略，以因應氣候變遷帶來之各項風險與挑戰，並實現企業之社會責任。日月光長期關注與支持海洋環境保護議題，2021年更成立「日月光環保潛水隊」，與桃園市環保局合作為期3年之海岸及海洋環境維護計畫，目標3年內至少清除500公噸海岸海洋垃圾，共同守護海洋環境與資源。"
+      ],
+      "logo": "/topic/projectblue1095/images/ase_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/ase_csr.jpg",
       "isReady": true
     },
     {
@@ -231,16 +367,18 @@
       "isReady": true
     },
     {
-      "title": "技嘉科技",
+      "title": "珂芮爾專業醫學保養",
       "intro": [
-        "GIGABYTE為全球主機板、顯示卡產品的領導品牌，並於伺服器、筆電、桌上型電腦、電腦周邊等領域樹立了無以撼動的地位。"
+        "如潺潺小溪流經大地，在肌膚上形成深刻的療癒。CREEKHEAL相信，唯有將肌膚的自癒力喚醒，啟動原有的正向循環，才是從源頭做起的根本保養之道。"
       ],
       "declaration": [
-        "GIGABYTE站在深耕數位包容與社會福利多年的基礎上，以「我承諾，我做得到」為核心理念，著手擘劃更完善回應ESG三大面向的「綠動計畫」。透過設立組織準則、構築永續治理方針、建置永續生態屋頂與開發低碳產品等方式，實踐企業社會責任與塑造員工永續意識。而2015年啟動的「運綠台灣．千里足夢」—環島拾廢專案，不僅是GIGABYTE對臺灣更深的回饋與尊重，也促成了對海洋更多的關懷與關注。"
+        "CREEKHEAL珂芮爾專業醫學保養，產品除了聚焦亞洲膚質、嚴謹選材，更拒絕電鍍等危害環境的製造方式；使用完全可回收的瓶器、環保壓頭，保護土壤及水源。",
+        "推出的｢GSH多酚魚子精華霜｣以環保低碳製造，降低環境暖化危害，獲行政院環保署頒發「碳足跡標籤」，排放量僅550g。",
+        "CREEKHEAL將持續關注海洋、大地，降低任何隱性、顯性環境成本，並回饋予社會。"
       ],
-      "logo": "/topic/projectblue1095/images/gigabyte_logo.svg",
+      "logo": "/topic/projectblue1095/images/creekheal_logo.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/gigabyte_csr.jpg",
+      "image": "/topic/projectblue1095/images/creekheal_csr.jpg",
       "isReady": true
     },
     {
@@ -257,47 +395,6 @@
       "isReady": true
     },
     {
-      "title": "珂芮爾專業醫學保養",
-      "intro": [
-        "如潺潺小溪流經大地，在肌膚上形成深刻的療癒。CREEKHEAL相信，唯有將肌膚的自癒力喚醒，啟動原有的正向循環，才是從源頭做起的根本保養之道。"
-      ],
-      "declaration": [
-        "CREEKHEAL珂芮爾專業醫學保養，產品除了聚焦亞洲膚質、嚴謹選材，更拒絕電鍍等危害環境的製造方式；使用完全可回收的瓶器、環保壓頭，保護土壤及水源。",
-        "推出的｢GSH多酚魚子精華霜｣以環保低碳製造，降低環境暖化危害，獲行政院環保署頒發「碳足跡標籤」，排放量僅550g。",
-        "CREEKHEAL將持續關注海洋、大地，降低任何隱性、顯性環境成本，並回饋予社會。"
-      ],
-      "logo": "/topic/projectblue1095/images/creekheal_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/creekheal_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "日月光集團",
-      "intro": [
-        "日月光集團為全球領先的半導體封裝與測試製造服務公司，旗下之日月光半導體、矽品與環旭，提供客戶包括前段測試及晶圓針測至後段封裝、材料及成品測試的一元化服務，並結合專業電子代工製造服務，提供完善的電子製造整體解決方案，以卓越技術及創新思維服務半導體、電子與數位科技市場。"
-      ],
-      "declaration": [
-        "日月光集團以「低碳使命」、「循環再生」、「社會共融」與「價值共創」為四大永續發展策略，以因應氣候變遷帶來之各項風險與挑戰，並實現企業之社會責任。日月光長期關注與支持海洋環境保護議題，2021年更成立「日月光環保潛水隊」，與桃園市環保局合作為期3年之海岸及海洋環境維護計畫，目標3年內至少清除500公噸海岸海洋垃圾，共同守護海洋環境與資源。"
-      ],
-      "logo": "/topic/projectblue1095/images/ase_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/ase_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "新北市政府",
-      "intro": [
-        "新北市擁有綿延145公里的海岸線，有多元的景觀與豐富的漁業資源，而海岸環境除了有各權管單位維護外，也歡迎企業與民眾一起加入，共同守護。"
-      ],
-      "declaration": [
-        "海洋資源永續經營，不僅靠政府也需要民間力量，新北市政府不但推動海灘環境認養，更全國首創「淨灘合作社」，結合熱門淨灘海岸周邊的在地店家，組成淨灘合作社由店家協助管理提供淨灘工具給民眾，讓遊玩的民眾不只帶走自己的垃圾，還能順手撿起沙灘上的垃圾，邀請大家響應「想淨就淨」。"
-      ],
-      "logo": "/topic/projectblue1095/images/newtaipei_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/newtaipei_csr.jpg",
-      "isReady": true
-    },
-    {
       "title": "彰化縣政府",
       "intro": [
         "彰化的海岸線擁有全台最大的泥質潮間帶，更有獨特的海牛文化，期許透過公私協力，打造永續共生的美好家園。"
@@ -309,103 +406,6 @@
       "logo": "/topic/projectblue1095/images/changhua_logo.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
       "image": "/topic/projectblue1095/images/changhua_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "永豐金控",
-      "intro": [
-        "永豐金控設立於2002年5月9日旗下子公司涵括銀行、證券、投信、租賃及創業投資等金融產業。海外服務點遍及香港、澳門、南京、上海、廣州、重慶、成都、天津、東莞、昆山、廈門、銀川、胡志明、河內、曼谷、仰光、洛杉磯及倫敦等地；其完整金融版圖，持續轉型創新的步伐，強調以人為核心，以專業為根本，以誠信為基石，提供客戶金融整體解決方案。"
-      ],
-      "declaration": [
-        "永豐金控以「誠信篤實」、「財富永傳」、「環境永續」、「社會共榮」四大永續使命，以及「消弭不平等」、「減緩與調適氣候變遷」、「促進共榮成長」三大永續承諾，擘劃各項永續行動方案，聚焦呼應8項聯合國永續發展目標，以具體行動落實永續治理及企業社會責任。"
-      ],
-      "logo": "/topic/projectblue1095/images/sinoPac_logo2.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/sinoPac_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "Brother",
-      "intro": [
-        "Brother集團總部位於日本名古屋，創立至今已超過110年，目前於全球44個國家中設有17個生產據點和52個銷售公司。",
-        "Brother設計生產高品質、高耐用性的產品，在列印、文件與影像處理、標籤及縫紉機市場已成為全球領導品牌，主要產品線包含雷射與噴墨印表機、複合機、以及應用範圍廣泛的家用和工業用標籤機與縫紉刺繡紉機等等。",
-        "集團秉持著「顧客至上」的方針，以全面的解決方案滿足顧客的需求，發揮企業社會責任，矢志成為信賴的品牌。"
-      ],
-      "declaration": [
-        "日本百年工藝品牌Brother秉持「At Your Side（顧客至上）」的企業理念，站在客戶端以「利他」立場換位思考，基於集團環境政策，努力從全球商業活動中創造社會價值，倡導針對環境、社會及企業治理準則 (ESG)的管理，並針對實現聯合國各項SDGs目標制定集團環境願景2050計畫。Brother集團積極履行企業社會責任，鼓勵世界各地的分公司，積極參與回饋社會的活動，以集團力量為地球環境永續發展盡一份心力。",
-        "Brother遵循聯合國全球盟約（UNGC）的原則，供應鏈已於2019年加入符合世界標準的責任商業聯盟（RBA），在全球推動相應行動。Brother集團也於2020年入選日本富時永續指數系列（FTSE4Good Index Series），實踐對ESG 投資者的承諾。"
-      ],
-      "logo": "/topic/projectblue1095/images/brother_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/brother_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "臺中市政府環保局",
-      "intro": [
-        "台中市海岸線擁有豐富及多樣的海洋漁業資源及生態保護區，如高美濕地及大肚溪口野生動物保護區等，本局關注海洋廢棄物議題及強化民眾海洋保護意識，期以有效清除海漂(底)垃圾，恢復海洋美麗風貌，達成永續海洋目標。"
-      ],
-      "declaration": [
-        "為使海洋永續經營，臺中市環保局自106及109年開始招募環保艦隊及潛海戰將共同成立本市「淨海聯盟」，目前已有191艘環保艦隊及140位潛海戰將共同打擊海漂(底)廢棄物！",
-        "為達源頭減量減少更多廢棄物流入海洋中，各港口皆已設有海漂廢棄物暫置區，鼓勵漁民自主清除，此外本局亦致力於海洋環境教育宣導、海廢再製及追蹤等宣導活動辦理，讓海洋教育向下扎根，永續海洋。"
-      ],
-      "logo": "/topic/projectblue1095/images/taichung_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/taichung_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "HP",
-      "intro": [
-        "HP的願景是創造能讓所有人隨時隨地享受優質生活的科技，這樣的願景激勵並鼓舞著我們要打造出令人驚豔的美好體驗。人們的工作方式、玩樂方式，以及生活方式會不斷革新，而我們的科技將伴您一同迎向嶄新的世界。"
-      ],
-      "declaration": [
-        "HP的目標是在2030年成為世界上最具可永續性和公正性的科技公司。我們制定了具備企圖心的時程，以科學為本，確保與聯合國永續發展目標保持一致，將HP與我們這個時代最急迫的問題連結起來。在氣候行動、人權和數位平等議題上，以身作則，讓品牌為世界帶來正面的影響力。",
-        "1991年起，HP就開始推動地球夥伴計畫，截至2020年為止，高達85％以上的HP原廠墨水匣、100％的HP原廠碳粉匣及不同商務型筆電產品中皆有不同比例的再利用或可再生的材料。"
-      ],
-      "logo": "/topic/projectblue1095/images/hp_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/hp_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "根基(冠德企業)",
-      "intro": [
-        "冠德建設全方位跨足幸福產業，從居住、娛樂直達心靈改革的教育層面，強調以人為本、有內涵深度的建築，為消費者打造的不僅是美好的硬體，更涵蓋生活層面的滿足，以「秉持誠信、精緻服務，持續創新、永續經營」理念，提供優質產品，期許透過建築，書寫生活美好篇章，持續為這片土地灌溉美學、知識與人文涵養。"
-      ],
-      "declaration": [
-        "冠德企業集團依循著「誠信、服務、創新、永續」的經營理念不斷前進，集團擘劃ESG策略藍圖，係以貼近核心子公司之產業特性發展，並對應SDGs指標而生；以綠色家園、智慧城市、幸福社會，成為深植冠德企業集團DNA的重要理念！"
-      ],
-      "logo": "/topic/projectblue1095/images/kindom_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/kindom_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "榮甸",
-      "intro": [
-        "純粹 | 革新 | 喜悅",
-        "榮甸國際成立於2020年，創辦人陳宜鋒先生同時身為以色列國家基金(Keren Hayesod)的台灣代表主席。因著有感於人們⽣活基礎需求-「空氣」與「水」的問題日趨嚴重，進而引進新創科技強國以色列的卓越產品、提出可實踐的解決⽅案。盼望藉著以色列TIKKUN OLAM 修復世界之特性，能為台灣帶來美善的生活環境，並賦予人們對生活喜悅的新想像。"
-      ],
-      "declaration": [
-        "榮甸國際因著台灣國人肺部疾病成為新國病且日趨嚴重的問題，全力推廣「職場呼吸健康安全」的企業責任，並於疫情期間和政府單位合作提供醫療前線人員認可的安全保護；面對全球乾旱、水資源匱乏以及台灣龐大塑料瓶使用的問題，致力提供企業、政府單位到民眾最環保且最頂級的飲用水解決方案，共同打造健康且永續的居住環境。"
-      ],
-      "logo": "/topic/projectblue1095/images/gloriDomain_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/gloriDomain_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "高雄市政府環境保護局",
-      "intro": [
-        ""
-      ],
-      "declaration": [
-        ""
-      ],
-      "logo": "/topic/projectblue1095/images/Kaohsiung_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/kindom_csr.jpg",
       "isReady": true
     }
   ],
@@ -424,16 +424,6 @@
       "isReady": true
     },
     {
-      "title": "海湧工作室",
-      "declaration": [
-        "海湧工作室由一群熱愛海洋的年輕人共同創辦，致力於環境友善、海洋守護， 除了透過舉辦淨灘、講座，來倡議廢棄物的源頭減量， 更用豐富有趣的實踐行動及體驗學習，讓大家知道守護海洋的重要，並期待更多人能將這波愛海的湧浪，傳遞出去！"
-      ],
-      "logo": "/topic/projectblue1095/images/hiinstudio_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/hiinstudio_csr.jpg",
-      "isReady": true
-    },
-    {
       "title": "Ccilu 馳綠",
       "declaration": [
         "「Ccilu 馳綠」成立於2012年，「22 製夢所」則是 Ccilu 品牌旗下成立的創新實驗室，是讓Ccilu團隊實踐「低碳生活、永續環保， 22 歲的善良與初心」夢想的搖籃。馳綠 22 製夢所每一雙鞋都秉持著三大設計原則─「輕量柔軟、裸足舒適、環保永續」。去年推出5杯咖啡渣打造的XpreSole®咖啡小白鞋以及 15 支寶特瓶打造的 GreenPlax® 寶特鞋，在全球市場獲得消費者廣大迴響與好評。",
@@ -442,6 +432,16 @@
       "logo": "/topic/projectblue1095/images/ccilu_logo.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
       "image": "/topic/projectblue1095/images/ccilu_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "海湧工作室",
+      "declaration": [
+        "海湧工作室由一群熱愛海洋的年輕人共同創辦，致力於環境友善、海洋守護， 除了透過舉辦淨灘、講座，來倡議廢棄物的源頭減量， 更用豐富有趣的實踐行動及體驗學習，讓大家知道守護海洋的重要，並期待更多人能將這波愛海的湧浪，傳遞出去！"
+      ],
+      "logo": "/topic/projectblue1095/images/hiinstudio_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/hiinstudio_csr.jpg",
       "isReady": true
     },
     {

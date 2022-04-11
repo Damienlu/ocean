@@ -56,7 +56,7 @@ const Footer = () => {
                     alt="台灣數位光訊科技股份有限公司 logo"
                   />
                   <img
-                    className="px-3 mb-8 h-logo"
+                    className="px-3 mb-8 h-logo-20 mt-1"
                     src={chromaLogo}
                     alt="致茂電子 logo"
                   />
@@ -101,7 +101,7 @@ const Footer = () => {
                     alt="Brother logo"
                   />
                   <img
-                    className="px-3 mb-8 h-logo"
+                    className="px-3 mb-8 h-logo-35"
                     src={gloriDomainLogo}
                     alt="榮甸國際 logo"
                   />
@@ -121,12 +121,12 @@ const Footer = () => {
                     alt="新北市政府 logo"
                   />
                   <img
-                    className="px-3 mb-5 h-logo"
+                    className="px-3 mb-5 h-logo-40"
                     src={taichungLogo}
                     alt="台中市政府環境保護局 logo"
                   />
                   <img
-                    className="px-3 mb-5 h-logo"
+                    className="px-3 mb-5 h-logo-40"
                     src={KaohsiungLogo}
                     alt="高雄市政府環境保護局 logo"
                   />

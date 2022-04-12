@@ -96,7 +96,7 @@ const Footer = () => {
                 <td className="align-top pr-2 w-20">響應夥伴：</td>
                 <td className="flex flex-wrap mb-5">
                   <img
-                    className="px-3 mb-8 h-logo"
+                    className="px-3 mb-8 mt-1 h-logo-25"
                     src={brotherLogo}
                     alt="Brother logo"
                   />
@@ -121,7 +121,7 @@ const Footer = () => {
                     alt="新北市政府 logo"
                   />
                   <img
-                    className="px-3 mb-5 h-logo-40"
+                    className="px-3 mb-5 h-logo-45"
                     src={taichungLogo}
                     alt="台中市政府環境保護局 logo"
                   />

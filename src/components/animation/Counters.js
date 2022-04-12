@@ -95,7 +95,7 @@ const Counters = ({countsData}) => {
   return (
     <Fade bottom>
     { cleanBeachNum.value > 0 &&
-            <div className="counters w-full max-w-5xl flex justify-between flex-wrap mb-20">
+            <div className="counters w-full max-w-5xl flex justify-between flex-wrap mb-12">
               <div className="counter sm:w-1/3 md:w-1/5 w-1/2 flex flex-col items-center mb-5">
                 <div className="counter-title font-medium text-center">
                   <h2>響應企業數</h2>

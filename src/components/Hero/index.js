@@ -1,6 +1,7 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useLayoutEffect } from "react";
 import Fade from "react-reveal/Fade";
 import {gsap} from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 import BirdAnimation from "../../components/animation/BirdAnimation";
 import Counters from "../../components/animation/Counters";
@@ -11,6 +12,9 @@ import oceanLogo from "../../assets/images/kv/title.png";
 import oceanWaves from "../../assets/images/ocean_waves.svg";
 // import mountains from "../../assets/images/mountains.png";
 import fish from "../../assets/images/kv/fish.png";
+import stingray from "../../assets/images/kv/stingray.png";
+import seagull1 from "../../assets/images/kv/seagull-1.png";
+import seagull2 from "../../assets/images/kv/seagull-2.png";
 import net from "../../assets/images/kv/net.png";
 import ship from "../../assets/images/kv/ship.png";
 import trashOutside from "../../assets/images/kv/trash-outside.png";
@@ -21,9 +25,94 @@ import printLeft from "../../assets/images/print_left.png";
 import printRight from "../../assets/images/print_right.png";
 import bird1 from "../../assets/images/bird_1.png";
 
-let tl = gsap.timeline();
+let tl1 = gsap.timeline();
+let tl2 = gsap.timeline();
+
+const netAnimation = () => {
+  gsap.timeline({
+    scrollTrigger: {
+      trigger: ".fish",
+      start: "top center",
+      end: "top 5%",
+      scrub: true,
+    },
+  }).from(
+    ".net_catch, .trash_catch",
+    {
+      opacity: 1,
+      scale: 1.15,
+      duration: 1,
+    }
+  )
+  .to(
+    ".net_catch, .trash_catch",
+    {
+      scale: 0.2,
+      opacity: 1,
+      duration: 3,
+    }
+  )
+  .to(
+    ".net_catch, .trash_catch",
+    {
+      scale: 0.2,
+      opacity: 0,
+      duration: 1,
+    }
+  )
+}
+
+
+const stingrayAnimation = () => {
+  gsap.timeline({
+    scrollTrigger: {
+      trigger: ".fish",
+      start: "top center",
+      end: "top 5%",
+      scrub: true,
+    },
+    default: {
+      opacity: 0,
+      rotation: -10,
+      xPercent: 50,
+      yPercent: 150,
+    }
+  }).from(
+    ".stingray",
+    {
+      opacity: 0,
+      rotation: -10,
+      xPercent: 50,
+      yPercent: 150,
+      duration: 1,
+      ease: "power0",
+    }
+  )
+  .to(
+    ".stingray",
+    {
+      opacity: 0,
+      rotation: -10,
+      xPercent: -50,
+      yPercent: -150,
+      duration: 1,
+      ease: "power0",
+    }
+  )
+}
+
+const scrollAnimation = () => {
+  tl1.from(".hero .scroll", {
+    duration: 1,
+    delay: 4,
+    y: -50,
+    opacity: 0,
+    ease: "bounce",
+  }, "-=1")
+}
+
 const flipflopAnimation = () => {
-  tl.to(".elements .print_left_4", {
+  tl2.to(".elements .print_left_4", {
     duration: 1,
     opacity: 1,
     delay: 2,
@@ -80,19 +169,18 @@ const flipflopAnimation = () => {
     opacity: 0,
     ease: "back",
   }, "-=1")
-  .from(".hero .scroll", {
-    duration: 1,
-    y: -50,
-    opacity: 0,
-    ease: "bounce",
-  }, "-=1")
 };
+
 const Hero = ({countsData}) => {
+  gsap.registerPlugin(ScrollTrigger);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     flipflopAnimation();
+    scrollAnimation();
+    netAnimation();
+    stingrayAnimation();
   }, []);
-
+  
   return (
     <div className="hero w-full h-auto flex flex-col items-center mb-48">
           <div className="sky relative w-full flex flex-col items-center pt-32 overflow-hidden">
@@ -113,12 +201,13 @@ const Hero = ({countsData}) => {
               />
             </div>
             </Fade>
-            <div className="bird_flying absolute">
+            {/* <div className="bird_flying absolute">
               <BirdAnimation />
-            </div>
+            </div> */}
             <Counters countsData={countsData}/>
-            <div className="fish relative w-4/5 mb-20 md:w-3/5">
+            <div className="fish relative mb-20 md:mb-80">
               <img className="fish_around" src={fish} alt="fish" />
+              {/* <div className="ship absolute"> */}
               <div className="ship ship_waves absolute">
                 <img src={ship} alt="ship" />
                 <img className="net_catch absolute w-full inset-0" src={net} alt="net" />
@@ -126,6 +215,9 @@ const Hero = ({countsData}) => {
                 <img className="absolute w-full inset-0" src={trashOutside} alt="trashOutside" />
               </div>
             </div>
+            <img className="stingray absolute hidden md:block" src={stingray} alt="stingray" />
+            <img className="seagull1 absolute" src={seagull1} alt="seagull1" />
+            <img className="seagull2 absolute hidden md:block" src={seagull2} alt="seagull2" />
             {/* 
               <div className="mountain absolute bottom-0 w-full flex items-end">
                 <img
@@ -135,6 +227,16 @@ const Hero = ({countsData}) => {
                 />
               </div>
             */}
+            <a
+              href="#計畫背景"
+              className="animate-bounce group scroll transition ease-in-out duration-300 font-black hover:text-primary-medium text-sm flex items-center justify-center w-11/12 max-w-xs absolute bottom-40 left-0 right-0 mx-auto"
+            >
+              <p className="tracking-wider">SCROLL</p>
+              <div className="relative border-2 border-black transition ease-in-out duration-300 group-hover:border-primary-medium px-3 py-5 rounded-full bg-white bg-opacity-75 mx-3">
+                <span className="mouse absolute top-1 left-1/2 transform px-1 py-2 rounded-full transition ease-in-out duration-300 group-hover:bg-primary-medium bg-black"></span>
+              </div>
+              <p className="tracking-wider">DOWN</p>
+            </a>
           </div>
 
           <div className="ocean relative w-full h-2/5 overflow-hidden">
@@ -151,17 +253,6 @@ const Hero = ({countsData}) => {
             <Typing/>
             </div>
             </Fade>
-            <a
-              href="#計畫背景"
-              className="animate-bounce group scroll transition ease-in-out duration-300 font-black hover:text-primary-medium text-sm flex items-center justify-center w-11/12 max-w-xs absolute bottom-2 left-0 right-0 mx-auto"
-            >
-              <p className="tracking-wider">SCROLL</p>
-              <div className="relative border-2 border-black transition ease-in-out duration-300 group-hover:border-primary-medium px-3 py-5 rounded-full bg-white bg-opacity-75 mx-3">
-                <span className="mouse absolute top-1 left-1/2 transform px-1 py-2 rounded-full transition ease-in-out duration-300 group-hover:bg-primary-medium bg-black"></span>
-              </div>
-              <p className="tracking-wider">DOWN</p>
-            </a>
-            
           </div>
 
           <div className="elements relative">

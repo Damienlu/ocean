@@ -103,6 +103,14 @@ body {
   }
 }
 
+.fish {
+  width: 52%;
+  
+  @include media-768 {
+    width: 180%;
+  }
+}
+
 .counter-numbers .number{
   font-family: Work Sans;
 }
@@ -427,7 +435,7 @@ body {
 
 .net_catch{
   transform-origin: 50% 12%;
-  animation: net-catch 10s linear infinite;
+//   animation: net-catch 10s linear infinite;
 }
 
 @keyframes net-catch {
@@ -465,7 +473,7 @@ body {
 
 .trash_catch{
   transform-origin: 50% 12%;
-  animation: trash-catch 10s linear infinite;
+//   animation: trash-catch 10s linear infinite;
 }
 
 @keyframes trash-catch {
@@ -495,6 +503,87 @@ body {
   }
 }
 
+.stingray {
+  width: 19%;
+  top: 54%;
+  left: 1%;
+}
+
+.seagull1 {
+  width: 7%;
+  // top: 57%;
+  // left: calc(50% + 552px);
+  animation: flying1 16s linear both infinite;
+}
+
+@keyframes flying1 {
+  0% {
+    top: 57%;
+    right: -10%;
+  }
+  15%{
+    transform: rotate(0deg);
+    top: 55%;
+    right: 25%;
+  }
+  30%{
+    transform: rotate(-10deg);
+    top: 59%;
+    right: 50%;
+  }
+  45%{
+    top: 55%;
+    right: 80%;
+  }
+  60% {
+    transform: rotate(-20deg);
+    top: 63%;
+    right: 110%;
+  }
+  100% {
+    transform: rotate(-20deg);
+    top: 63%;
+    right: 110%;
+  }
+}
+
+.seagull2 {
+  width: 24%;
+  // top: 7%;
+  // left: calc(50% + 520px);
+  animation: flying2 16s linear both infinite;
+}
+
+@keyframes flying2 {
+  0% {
+    top: -30%;
+    right: -30%;
+  }
+  15%{
+    top: -10%;
+    right: -10%;
+    transform: scale(1);
+  }
+  40%{
+    opacity: 1;
+    top: 50%;
+    right: 20%;
+    transform: scale(0.5) rotate(-20deg);
+  }
+  55%{
+    opacity: 0;
+    transform: scale(0.5) rotate(-10deg);
+  }
+  60%{
+    opacity: 0;
+    top: 110%;
+    right: 50%;
+  }
+  100% {
+    top: 110%;
+    right: 50%;
+  }
+}
 
 // Slick Slider
 

@@ -36,24 +36,37 @@ const netAnimation = () => {
       end: "top 5%",
       scrub: true,
     },
+    default: {
+      opacity: 0,
+      scale: 1.2,
+    }
   }).from(
-    ".net_catch, .trash_catch",
+    ".net_catch",
+    {
+      opacity: 0,
+      scale: 1.2,
+      duration: 1,
+      ease: 'expo',
+    }
+  )
+  .to(
+    ".net_catch",
     {
       opacity: 1,
-      scale: 1.15,
+      scale: 1,
       duration: 1,
     }
   )
   .to(
-    ".net_catch, .trash_catch",
+    ".net_catch",
     {
       scale: 0.2,
       opacity: 1,
-      duration: 3,
+      duration: 4,
     }
   )
   .to(
-    ".net_catch, .trash_catch",
+    ".net_catch",
     {
       scale: 0.2,
       opacity: 0,
@@ -62,6 +75,51 @@ const netAnimation = () => {
   )
 }
 
+const trashAnimation = () => {
+  gsap.timeline({
+    scrollTrigger: {
+      trigger: ".fish",
+      start: "top center",
+      end: "top 5%",
+      scrub: true,
+    },
+    default: {
+      opacity: 1,
+      scale: 1,
+    }
+  }).from(
+    ".trash_catch",
+    {
+      opacity: 1,
+      scale: 1,
+      duration: 1,
+    }
+  )
+  .to(
+    ".trash_catch",
+    {
+      opacity: 1,
+      scale: 1,
+      duration: 1,
+    }
+  )
+  .to(
+    ".trash_catch",
+    {
+      scale: 0.2,
+      opacity: 1,
+      duration: 4,
+    }
+  )
+  .to(
+    ".trash_catch",
+    {
+      scale: 0.2,
+      opacity: 0,
+      duration: 1,
+    }
+  )
+}
 
 const stingrayAnimation = () => {
   gsap.timeline({
@@ -178,6 +236,7 @@ const Hero = ({countsData}) => {
     flipflopAnimation();
     scrollAnimation();
     netAnimation();
+    trashAnimation();
     stingrayAnimation();
   }, []);
   

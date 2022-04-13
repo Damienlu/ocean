@@ -513,7 +513,7 @@ body {
   width: 7%;
   // top: 57%;
   // left: calc(50% + 552px);
-  animation: flying1 16s linear both infinite;
+  animation: flying1 12s linear both infinite;
 }
 
 @keyframes flying1 {
@@ -528,21 +528,20 @@ body {
   }
   30%{
     transform: rotate(-10deg);
-    top: 59%;
+    top: 60%;
     right: 50%;
   }
   45%{
-    top: 55%;
+    top: 45%;
     right: 80%;
   }
   60% {
-    transform: rotate(-20deg);
-    top: 63%;
+    transform: rotate(20deg);
+    top: 30%;
     right: 110%;
   }
   100% {
-    transform: rotate(-20deg);
-    top: 63%;
+    top: 35%;
     right: 110%;
   }
 }
@@ -551,7 +550,7 @@ body {
   width: 24%;
   // top: 7%;
   // left: calc(50% + 520px);
-  animation: flying2 16s linear both infinite;
+  animation: flying2 12s linear both infinite;
 }
 
 @keyframes flying2 {

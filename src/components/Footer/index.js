@@ -123,7 +123,7 @@ const Footer = () => {
                   <img
                     className="px-3 mb-5 h-logo-45"
                     src={taichungLogo}
-                    alt="台中市政府環境保護局 logo"
+                    alt="臺中市政府環境保護局 logo"
                   />
                   <img
                     className="px-3 mb-5 h-logo-40"

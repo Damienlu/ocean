@@ -56,7 +56,7 @@ const Footer = () => {
                     alt="台灣數位光訊科技股份有限公司 logo"
                   />
                   <img
-                    className="px-3 mb-8 h-logo-20 mt-1"
+                    className="px-3 mb-8 h-logo-35"
                     src={chromaLogo}
                     alt="致茂電子 logo"
                   />

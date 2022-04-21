@@ -209,7 +209,12 @@ const Partners = ({
 
           <div className="border border-primary-lighter bg-white bg-opacity-95 overflow-y-auto max-h-modal w-5/6 md:w-11/12 max-w-screen-lg h-5/6 md:h-auto relative shadow-lg rounded-xl">
             <div className="flex flex-col md:flex-row py-10 px-8 md:py-24 md:px-20 relative">
-              <div className="partners_intro w-full md:w-1/2 md:pr-10">
+              <div className={clsx(
+                  isCompany && "mb-10 md:mb-0",
+                  !isCompany && "mb-10",
+                  "partners_intro w-full md:w-1/2 md:pr-10",
+                )}
+              >
                 <div
                   className={clsx(
                     isCompany && "mb-10 md:mb-0",
@@ -227,7 +232,7 @@ const Partners = ({
                 <div
                   className={clsx(
                     isCompany && "hidden",
-                    "introduction mb-10 md:mb-0"
+                    "introduction"
                   )}
                 >
                   <h4
@@ -249,10 +254,63 @@ const Partners = ({
                       );
                     })}
                 </div>
+                {partner.intro_1 && (
+                  <div
+                    className={clsx(
+                      isCompany && "hidden",
+                      "introduction md:hidden"
+                    )}
+                  >
+                    <h4
+                      className={clsx(
+                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                      )}
+                    >
+                      {partner.title_1}
+                    </h4>
+                    {partner.intro_1.map((content, i) => {
+                        return (
+                          <p
+                            key={`content${i}`}
+                            className="text-sm font-medium mb-3"
+                          >
+                            {content}
+                          </p>
+                        );
+                      })}
+                  </div>
+                )}
+
+                {partner.intro_2 && (
+                  <div
+                    className={clsx(
+                      isCompany && "hidden",
+                      "introduction md:hidden"
+                    )}
+                  >
+                    <h4
+                      className={clsx(
+                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                      )}
+                    >
+                      {partner.title_2}
+                    </h4>
+                    {partner.intro_2.map((content, i) => {
+                        return (
+                          <p
+                            key={`content${i}`}
+                            className="text-sm font-medium mb-3"
+                          >
+                            {content}
+                          </p>
+                        );
+                      })}
+                  </div>
+                )}
               </div>
-              <div className="declaration w-full md:w-1/2 flex flex-col justify-between pl-0 md:pl-10 border-none md:border-l border-primary-light">
+              <div className="declaration w-full md:w-1/2 pl-0 md:pl-10 border-none md:border-l border-primary-light">
                 <div
-                  className={clsx(isCompany && "mb-10", "declaration_text mb-10")}
+                  className={clsx(isCompany && "", "declaration_text")}
                 >
                   <h3
                     className={clsx(
@@ -284,6 +342,60 @@ const Partners = ({
                       );
                     })}
                 </div>
+
+                {partner.intro_1 && (
+                  <div
+                    className={clsx(
+                      isCompany && "hidden",
+                      "introduction hidden md:block"
+                    )}
+                  >
+                    <h4
+                      className={clsx(
+                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                      )}
+                    >
+                      {partner.title_1}
+                    </h4>
+                    {partner.intro_1.map((content, i) => {
+                        return (
+                          <p
+                            key={`content${i}`}
+                            className="text-sm font-medium mb-3"
+                          >
+                            {content}
+                          </p>
+                        );
+                      })}
+                  </div>
+                )}
+
+                {partner.intro_2 && (
+                  <div
+                    className={clsx(
+                      isCompany && "hidden",
+                      "introduction hidden md:block"
+                    )}
+                  >
+                    <h4
+                      className={clsx(
+                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
+                      )}
+                    >
+                      {partner.title_2}
+                    </h4>
+                    {partner.intro_2.map((content, i) => {
+                        return (
+                          <p
+                            key={`content${i}`}
+                            className="text-sm font-medium mb-3"
+                          >
+                            {content}
+                          </p>
+                        );
+                      })}
+                  </div>
+                )}
             </div>
 
               {/* <a

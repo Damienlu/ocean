@@ -258,7 +258,7 @@ const Partners = ({
                   <div
                     className={clsx(
                       isCompany && "hidden",
-                      "introduction md:hidden"
+                      "introduction"
                     )}
                   >
                     <h4
@@ -285,7 +285,7 @@ const Partners = ({
                   <div
                     className={clsx(
                       isCompany && "hidden",
-                      "introduction md:hidden"
+                      "introduction"
                     )}
                   >
                     <h4
@@ -342,60 +342,6 @@ const Partners = ({
                       );
                     })}
                 </div>
-
-                {partner.intro_1 && (
-                  <div
-                    className={clsx(
-                      isCompany && "hidden",
-                      "introduction hidden md:block"
-                    )}
-                  >
-                    <h4
-                      className={clsx(
-                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
-                      )}
-                    >
-                      {partner.title_1}
-                    </h4>
-                    {partner.intro_1.map((content, i) => {
-                        return (
-                          <p
-                            key={`content${i}`}
-                            className="text-sm font-medium mb-3"
-                          >
-                            {content}
-                          </p>
-                        );
-                      })}
-                  </div>
-                )}
-
-                {partner.intro_2 && (
-                  <div
-                    className={clsx(
-                      isCompany && "hidden",
-                      "introduction hidden md:block"
-                    )}
-                  >
-                    <h4
-                      className={clsx(
-                        "rounded-xl text-sm font-bold bg-primary-lighter inline-block px-4 py-1 mb-2 md:mb-4"
-                      )}
-                    >
-                      {partner.title_2}
-                    </h4>
-                    {partner.intro_2.map((content, i) => {
-                        return (
-                          <p
-                            key={`content${i}`}
-                            className="text-sm font-medium mb-3"
-                          >
-                            {content}
-                          </p>
-                        );
-                      })}
-                  </div>
-                )}
             </div>
 
               {/* <a

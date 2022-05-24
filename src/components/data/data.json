@@ -257,7 +257,7 @@
       "isReady": true
     },
     {
-      "title": "榮甸",
+      "title": "榮甸國際",
       "intro": [
         "純粹 | 革新 | 喜悅",
         "榮甸國際成立於2020年，創辦人陳宜鋒先生同時身為以色列國家基金(Keren Hayesod)的台灣代表主席。因著有感於人們⽣活基礎需求-「空氣」與「水」的問題日趨嚴重，進而引進新創科技強國以色列的卓越產品、提出可實踐的解決⽅案。盼望藉著以色列TIKKUN OLAM 修復世界之特性，能為台灣帶來美善的生活環境，並賦予人們對生活喜悅的新想像。"
@@ -471,6 +471,17 @@
       "logo": "/topic/projectblue1095/images/equilibrium_logo.svg",
       "link": "https://eqm.ai",
       "image": "/topic/projectblue1095/images/equilibrium_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "寶島淨鄉團",
+      "declaration": [
+        "寶島淨鄉團於2012年創立，至今於全台數個海灘舉辦上百次淨灘活動，透過網路號召大眾參與，改變海洋的垃圾危機，累積號召上萬人一起以行動守護環境。行跡走遍台灣南北，從貢寮、安平到旗津，都是他們實踐對台灣的愛與關懷的地方。",
+        "一路走來，寶島淨鄉團發現，他們要拾起的垃圾不是在海邊，而是在每個人的心裡面。邀請你和寶島淨鄉團一起相信：世界上最美的風景不是美景本身，而是願意守護美景的心。"
+      ],
+      "logo": "/topic/projectblue1095/images/Hualien_logo.png",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/Hualien_csr.jpg",
       "isReady": true
     }
   ],

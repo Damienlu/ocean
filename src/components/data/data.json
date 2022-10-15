@@ -284,6 +284,46 @@
       "isReady": true
     },
     {
+      "title": "日月光集團",
+      "intro": [
+        "日月光集團為全球領先的半導體封裝與測試製造服務公司，旗下之日月光半導體、矽品與環旭，提供客戶包括前段測試及晶圓針測至後段封裝、材料及成品測試的一元化服務，並結合專業電子代工製造服務，提供完善的電子製造整體解決方案，以卓越技術及創新思維服務半導體、電子與數位科技市場。"
+      ],
+      "declaration": [
+        "日月光集團以「低碳使命」、「循環再生」、「社會共融」與「價值共創」為四大永續發展策略，以因應氣候變遷帶來之各項風險與挑戰，並實現企業之社會責任。日月光長期關注與支持海洋環境保護議題，2021年更成立「日月光環保潛水隊」，與桃園市環保局合作為期3年之海岸及海洋環境維護計畫，目標3年內至少清除500公噸海岸海洋垃圾，共同守護海洋環境與資源。"
+      ],
+      "logo": "/topic/projectblue1095/images/ase_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/ase_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "華藝數位",
+      "intro": [
+        "airiti（華藝數位股份有限公司）秉持創新知識服務的精神，提供最有價值的知識服務，為台灣躋身國際的專業資料庫企業。"
+      ],
+      "declaration": [
+        "海洋生態與人類生活息息相關，華藝數位股份有限公司發展企業經營的同時，亦積極推展環境、社會、治理面向的相關作為，力行參與淨灘等公益活動，以實際行動減緩海洋汙染，落實環境保護，為生態盡力，長期推動企業社會責任，實踐ESG永續發展並與世界接軌。"
+      ],
+      "logo": "/topic/projectblue1095/images/airiti_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/airiti_csr.jpg",
+      "isReady": true
+    },
+    {
+      "title": "屈臣氏",
+      "intro": [
+        "屈臣氏主要販售三大類商品: 美麗(Beauty)、健康(Health)及個人用品(Personal Care)，店內配置有專業的藥師及美容顧問、熱心的服務人員，以活力充沛(Energetic)、專業有術(Expert)、時刻陪伴(Everyday)的品牌DNA，提供顧客最方便、齊全、專業的個人藥妝商品購物選擇。"
+      ],
+      "declaration": [
+        "健康美麗領導品牌屈臣氏長期致力永續環保議題，自2021啟動「屈動每個更好」品牌煥新計畫，其中四大品牌動能之一「永續美」以「屈動更好地球」作為行動概念，今年更以「屈動綠色生活」呼籲消費者一起響應。",
+        "屈臣氏認為提供零售服務不應犧牲美麗的地球，推出一系列減碳、減塑、循環再生行動，期望以實質行動為消費者帶來更便利的綠色生活。且於2016起連續6年舉辦淨灘活動，撿拾海灘廢棄物總重近7公噸，並呼籲所有消費者除了在海灘「撿」塑之外，更要積極從生活源頭中「減」塑。"
+      ],
+      "logo": "/topic/projectblue1095/images/wastons_logo.svg",
+      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
+      "image": "/topic/projectblue1095/images/wastons_csr.jpg",
+      "isReady": true
+    },
+    {
       "title": "新北市政府",
       "intro": [
         "新北市擁有綿延145公里的海岸線，有多元的景觀與豐富的漁業資源，而海岸環境除了有各權管單位維護外，也歡迎企業與民眾一起加入，共同守護。"
@@ -335,19 +375,6 @@
       "isReady": true
     },
     {
-      "title": "日月光集團",
-      "intro": [
-        "日月光集團為全球領先的半導體封裝與測試製造服務公司，旗下之日月光半導體、矽品與環旭，提供客戶包括前段測試及晶圓針測至後段封裝、材料及成品測試的一元化服務，並結合專業電子代工製造服務，提供完善的電子製造整體解決方案，以卓越技術及創新思維服務半導體、電子與數位科技市場。"
-      ],
-      "declaration": [
-        "日月光集團以「低碳使命」、「循環再生」、「社會共融」與「價值共創」為四大永續發展策略，以因應氣候變遷帶來之各項風險與挑戰，並實現企業之社會責任。日月光長期關注與支持海洋環境保護議題，2021年更成立「日月光環保潛水隊」，與桃園市環保局合作為期3年之海岸及海洋環境維護計畫，目標3年內至少清除500公噸海岸海洋垃圾，共同守護海洋環境與資源。"
-      ],
-      "logo": "/topic/projectblue1095/images/ase_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/ase_csr.jpg",
-      "isReady": true
-    },
-    {
       "title": "辛普森遊艇",
       "intro": [
         "辛普森遊艇成立37年，代理領先的遊艇與帆船品牌，在全球享有良好聲譽，集團提供遊艇銷售，租賃，管理，財務等優質及專業的遊艇服務。"
@@ -359,19 +386,6 @@
       "logo": "/topic/projectblue1095/images/simpson_logo_short.svg",
       "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
       "image": "/topic/projectblue1095/images/simpson_csr.jpg",
-      "isReady": true
-    },
-    {
-      "title": "華藝數位",
-      "intro": [
-        "airiti（華藝數位股份有限公司）秉持創新知識服務的精神，提供最有價值的知識服務，為台灣躋身國際的專業資料庫企業。"
-      ],
-      "declaration": [
-        "海洋生態與人類生活息息相關，華藝數位股份有限公司發展企業經營的同時，亦積極推展環境、社會、治理面向的相關作為，力行參與淨灘等公益活動，以實際行動減緩海洋汙染，落實環境保護，為生態盡力，長期推動企業社會責任，實踐ESG永續發展並與世界接軌。"
-      ],
-      "logo": "/topic/projectblue1095/images/airiti_logo.svg",
-      "link": "https://www.businesstoday.com.tw/article/category/183034/post/202102040013/%E8%8B%A6%E9%9B%A3%E8%83%8C%E5%BE%8C%E9%83%BD%E6%9C%89%E7%A5%9D%E7%A6%8F%E3%80%80%E6%8A%97%E7%99%8C%E8%B7%AF%E4%B8%8A%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E3%80%80PHI%20ACADEMY%E5%8F%B0%E7%81%A3%E9%A6%96%E4%BD%8D%E7%B4%8B%E7%B9%A1Master",
-      "image": "/topic/projectblue1095/images/airiti_csr.jpg",
       "isReady": true
     },
     {

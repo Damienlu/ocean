@@ -32,6 +32,7 @@ import hpLogo from "../../assets/images/logo/hp_logo.svg";
 import gloriDomainLogo from "../../assets/images/logo/gloriDomain_logo.svg";
 import chromaLogo from "../../assets/images/logo/chroma_logo2.svg";
 import globalmallLogo from "../../assets/images/logo/Globalmall_logo.svg";
+import wastonsLogo from "../../assets/images/logo/wastons_logo.svg";
 
 const Footer = () => {
   return (
@@ -110,6 +111,21 @@ const Footer = () => {
                     src={nanshanLogo}
                     alt="南山人壽 logo"
                   />
+                  <img
+                    className="px-3 mb-8"
+                    src={aseLogo}
+                    alt="日月光集團 logo"
+                  />
+                  <img
+                    className="px-3 mb-8"
+                    src={airitiLogo}
+                    alt="華藝數位 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 mt-1 h-logo-25"
+                    src={wastonsLogo}
+                    alt="屈臣氏 logo"
+                  />
                 </td>
               </tr>
               <tr>
@@ -142,18 +158,8 @@ const Footer = () => {
                   />
                   <img
                     className="px-3 mb-8"
-                    src={aseLogo}
-                    alt="日月光集團 logo"
-                  />
-                  <img
-                    className="px-3 mb-8"
                     src={simpsonLogo}
                     alt="辛普森遊艇 logo"
-                  />
-                  <img
-                    className="px-3 mb-8"
-                    src={airitiLogo}
-                    alt="華藝數位 logo"
                   />
                   <img
                     className="px-3 mb-8"

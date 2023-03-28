@@ -33,6 +33,8 @@ import gloriDomainLogo from "../../assets/images/logo/gloriDomain_logo.svg";
 import chromaLogo from "../../assets/images/logo/chroma_logo2.svg";
 import globalmallLogo from "../../assets/images/logo/Globalmall_logo.svg";
 import wastonsLogo from "../../assets/images/logo/wastons_logo.svg";
+import novaxLogo from "../../assets/images/logo/novax_logo.svg";
+import yuantaLogo from "../../assets/images/logo/yuanta_logo.svg";
 
 const Footer = () => {
   return (
@@ -122,9 +124,19 @@ const Footer = () => {
                     alt="華藝數位 logo"
                   />
                   <img
-                    className="px-3 mb-8 mt-1 h-logo-25"
+                    className="px-3 mb-8 mt-2 h-logo-25"
                     src={wastonsLogo}
                     alt="屈臣氏 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 h-logo-45"
+                    src={novaxLogo}
+                    alt="諾瓦科技 logo"
+                  />
+                  <img
+                    className="px-3 mb-8 mt-2 h-logo-30"
+                    src={yuantaLogo}
+                    alt="元大金控 logo"
                   />
                 </td>
               </tr>
@@ -137,7 +149,7 @@ const Footer = () => {
                     alt="新北市政府 logo"
                   />
                   <img
-                    className="px-3 mb-5 h-logo-45"
+                    className="px-3 mb-5 h-logo-40"
                     src={taichungLogo}
                     alt="臺中市政府環境保護局 logo"
                   />

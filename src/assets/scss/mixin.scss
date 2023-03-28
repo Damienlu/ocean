@@ -1,48 +1,47 @@
 @mixin media-370 {
   @media screen and (max-width: 370px) {
-    @content
+    @content;
   }
-};
+}
 
 @mixin media-376 {
   @media screen and (max-width: 376px) {
-    @content
+    @content;
   }
-};
+}
 
 @mixin media-479 {
   @media screen and (max-width: 479px) {
-    @content
+    @content;
   }
-};
-
+}
 
 @mixin media-568 {
-    @media screen and (max-width: 568px) {
-      @content
-    }
-  };
-  
-  @mixin media-768 {
-    @media screen and (max-width: 768px) {
-      @content
-    }
-  };
+  @media screen and (max-width: 568px) {
+    @content;
+  }
+}
 
-  @mixin media-992 {
-    @media screen and (max-width: 992px) {
-      @content
-    }
-  };
+@mixin media-768 {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
 
-  @mixin media-1080 {
-    @media screen and (max-width: 1080px) {
-      @content
-    }
-  };
-  
-  @mixin media-1280 {
-    @media screen and (max-width: 1280px) {
-      @content
-    }
-  };
+@mixin media-992 {
+  @media screen and (max-width: 992px) {
+    @content;
+  }
+}
+
+@mixin media-1080 {
+  @media screen and (max-width: 1080px) {
+    @content;
+  }
+}
+
+@mixin media-1280 {
+  @media screen and (max-width: 1280px) {
+    @content;
+  }
+} ;
